@@ -1,0 +1,845 @@
+01/08/2022 12:50:32 897 PM		User is Trying To create instance of the Application
+01/08/2022 12:50:33 493 PM		Application Started
+01/08/2022 12:50:33 781 PM		Login Form Initilized
+01/08/2022 12:50:35 002 PM		User:  admin  Logged in Sucessfully
+01/08/2022 12:50:35 049 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 12:50:35 077 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 12:50:35 079 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 12:50:35 086 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 12:50:35 088 PM		Customer Tab Data Resetted
+01/08/2022 12:50:35 089 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 12:50:36 315 PM		Subscription Tab Selected 
+01/08/2022 12:50:36 317 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 12:50:36 320 PM		 Subscription Tab Ressetted
+01/08/2022 12:50:41 890 PM		Close Button Pressed		OnFormClosing
+01/08/2022 12:50:46 678 PM		Are you sure you want to Exist The Application
+01/08/2022 12:50:46 680 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 12:50:46 682 PM		User:  admin  Is Closing The Application
+01/08/2022 12:50:46 708 PM		Application Closed
+
+
+01/08/2022 12:52:18 675 PM		User is Trying To create instance of the Application
+01/08/2022 12:52:18 680 PM		Application Started
+01/08/2022 12:52:18 795 PM		Login Form Initilized
+01/08/2022 12:52:54 922 PM		User is Trying To create instance of the Application
+01/08/2022 12:52:54 925 PM		Application Started
+01/08/2022 12:52:54 984 PM		Login Form Initilized
+01/08/2022 12:52:55 795 PM		User:  admin  Logged in Sucessfully
+01/08/2022 12:52:55 825 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 12:53:49 592 PM		User is Trying To create instance of the Application
+01/08/2022 12:53:49 595 PM		Application Started
+01/08/2022 12:53:49 656 PM		Login Form Initilized
+01/08/2022 12:53:50 513 PM		User:  admin  Logged in Sucessfully
+01/08/2022 12:53:50 536 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 12:54:08 059 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 12:54:08 062 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 12:54:08 072 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 12:54:08 073 PM		Customer Tab Data Resetted
+01/08/2022 12:54:08 076 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 12:54:10 810 PM		Subscription Tab Selected 
+01/08/2022 12:54:10 812 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 12:54:10 814 PM		 Subscription Tab Ressetted
+01/08/2022 12:54:16 289 PM		Close Button Pressed		OnFormClosing
+01/08/2022 12:54:17 164 PM		Are you sure you want to Exist The Application
+01/08/2022 12:54:17 165 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 12:54:17 167 PM		User:  admin  Is Closing The Application
+01/08/2022 12:54:17 189 PM		Application Closed
+
+
+01/08/2022 12:56:22 180 PM		User is Trying To create instance of the Application
+01/08/2022 12:56:22 184 PM		Application Started
+01/08/2022 12:56:22 254 PM		Login Form Initilized
+01/08/2022 12:56:22 976 PM		User:  admin  Logged in Sucessfully
+01/08/2022 12:56:44 265 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 12:56:44 289 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 12:56:44 291 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 12:56:44 301 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 12:56:44 302 PM		Customer Tab Data Resetted
+01/08/2022 12:56:44 304 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 12:56:46 590 PM		Subscription Tab Selected 
+01/08/2022 12:56:46 593 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 12:56:46 596 PM		 Subscription Tab Ressetted
+01/08/2022 12:56:50 384 PM		Close Button Pressed		OnFormClosing
+01/08/2022 12:56:51 204 PM		Are you sure you want to Exist The Application
+01/08/2022 12:56:51 205 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 12:56:51 207 PM		User:  admin  Is Closing The Application
+01/08/2022 12:56:51 227 PM		Application Closed
+
+
+01/08/2022 12:57:24 860 PM		User is Trying To create instance of the Application
+01/08/2022 12:57:24 865 PM		Application Started
+01/08/2022 12:57:24 929 PM		Login Form Initilized
+01/08/2022 12:57:25 696 PM		User:  admin  Logged in Sucessfully
+01/08/2022 12:59:03 741 PM		User is Trying To create instance of the Application
+01/08/2022 12:59:03 745 PM		Application Started
+01/08/2022 12:59:03 818 PM		Login Form Initilized
+01/08/2022 12:59:04 830 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:00:25 149 PM		User is Trying To create instance of the Application
+01/08/2022 1:00:25 153 PM		Application Started
+01/08/2022 1:00:25 219 PM		Login Form Initilized
+01/08/2022 1:00:26 187 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:01:29 338 PM		User is Trying To create instance of the Application
+01/08/2022 1:01:29 342 PM		Application Started
+01/08/2022 1:01:29 411 PM		Login Form Initilized
+01/08/2022 1:01:31 117 PM		User:  admin  Is Closing The Application
+01/08/2022 1:01:31 134 PM		Application Closed
+
+
+01/08/2022 1:02:16 539 PM		User is Trying To create instance of the Application
+01/08/2022 1:02:16 543 PM		Application Started
+01/08/2022 1:02:16 598 PM		Login Form Initilized
+01/08/2022 1:02:17 667 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:02:46 897 PM		User is Trying To create instance of the Application
+01/08/2022 1:02:46 901 PM		Application Started
+01/08/2022 1:02:46 969 PM		Login Form Initilized
+01/08/2022 1:02:48 101 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:04:16 150 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:04:16 176 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:04:16 178 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:04:16 186 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:04:16 188 PM		Customer Tab Data Resetted
+01/08/2022 1:04:16 190 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:04:23 998 PM		Subscription Tab Selected 
+01/08/2022 1:04:24 000 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:04:24 002 PM		 Subscription Tab Ressetted
+01/08/2022 1:04:27 708 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:04:28 785 PM		Are you sure you want to Exist The Application
+01/08/2022 1:04:28 787 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:04:28 788 PM		User:  admin  Is Closing The Application
+01/08/2022 1:04:28 809 PM		Application Closed
+
+
+01/08/2022 1:06:01 877 PM		User is Trying To create instance of the Application
+01/08/2022 1:06:01 880 PM		Application Started
+01/08/2022 1:06:01 936 PM		Login Form Initilized
+01/08/2022 1:06:03 094 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:07:13 055 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:07:13 084 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:07:13 086 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:07:13 091 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:07:13 092 PM		Customer Tab Data Resetted
+01/08/2022 1:07:13 094 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:07:15 914 PM		Subscription Tab Selected 
+01/08/2022 1:07:15 916 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:07:15 919 PM		 Subscription Tab Ressetted
+01/08/2022 1:07:17 164 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:07:18 049 PM		Are you sure you want to Exist The Application
+01/08/2022 1:07:18 050 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:07:18 052 PM		User:  admin  Is Closing The Application
+01/08/2022 1:07:18 074 PM		Application Closed
+
+
+01/08/2022 1:09:15 200 PM		User is Trying To create instance of the Application
+01/08/2022 1:09:15 203 PM		Application Started
+01/08/2022 1:09:15 265 PM		Login Form Initilized
+01/08/2022 1:09:16 051 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:12:15 861 PM		User is Trying To create instance of the Application
+01/08/2022 1:12:15 864 PM		Application Started
+01/08/2022 1:12:15 934 PM		Login Form Initilized
+01/08/2022 1:12:17 347 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:13:32 122 PM		User is Trying To create instance of the Application
+01/08/2022 1:13:32 126 PM		Application Started
+01/08/2022 1:13:32 184 PM		Login Form Initilized
+01/08/2022 1:13:32 987 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:13:33 013 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:13:45 540 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:13:45 542 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:13:45 549 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:13:45 550 PM		Customer Tab Data Resetted
+01/08/2022 1:13:45 551 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:13:48 120 PM		Subscription Tab Selected 
+01/08/2022 1:13:48 122 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:13:48 124 PM		 Subscription Tab Ressetted
+01/08/2022 1:13:51 834 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:13:52 663 PM		Are you sure you want to Exist The Application
+01/08/2022 1:13:52 665 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:13:52 667 PM		User:  admin  Is Closing The Application
+01/08/2022 1:13:52 693 PM		Application Closed
+
+
+01/08/2022 1:13:54 343 PM		User is Trying To create instance of the Application
+01/08/2022 1:13:54 348 PM		Application Started
+01/08/2022 1:13:54 406 PM		Login Form Initilized
+01/08/2022 1:13:55 322 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:13:55 359 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:14:09 708 PM		User is Trying To create instance of the Application
+01/08/2022 1:14:09 712 PM		Application Started
+01/08/2022 1:14:09 777 PM		Login Form Initilized
+01/08/2022 1:14:10 771 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:14:34 492 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:14:37 762 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:14:37 764 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:14:37 772 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:14:37 773 PM		Customer Tab Data Resetted
+01/08/2022 1:14:37 775 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:14:41 130 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:14:42 091 PM		Are you sure you want to Exist The Application
+01/08/2022 1:14:42 093 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:14:42 094 PM		User:  admin  Is Closing The Application
+01/08/2022 1:14:42 111 PM		Application Closed
+
+
+01/08/2022 1:20:03 870 PM		User is Trying To create instance of the Application
+01/08/2022 1:20:03 875 PM		Application Started
+01/08/2022 1:20:03 937 PM		Login Form Initilized
+01/08/2022 1:20:04 856 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:20:04 895 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:20:04 928 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:20:04 932 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:20:04 947 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:20:04 949 PM		Customer Tab Data Resetted
+01/08/2022 1:20:04 950 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:20:05 784 PM		Subscription Tab Selected 
+01/08/2022 1:20:05 786 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:20:05 788 PM		 Subscription Tab Ressetted
+01/08/2022 1:20:10 623 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:20:11 714 PM		Are you sure you want to Exist The Application
+01/08/2022 1:20:11 716 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:20:11 717 PM		User:  admin  Is Closing The Application
+01/08/2022 1:20:11 747 PM		Application Closed
+
+
+01/08/2022 1:22:19 804 PM		User is Trying To create instance of the Application
+01/08/2022 1:22:19 808 PM		Application Started
+01/08/2022 1:22:19 875 PM		Login Form Initilized
+01/08/2022 1:22:20 743 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:22:20 776 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:22:20 811 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:22:20 814 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:22:20 823 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:22:20 825 PM		Customer Tab Data Resetted
+01/08/2022 1:22:20 827 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:22:21 805 PM		Subscription Tab Selected 
+01/08/2022 1:22:21 807 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:22:21 809 PM		 Subscription Tab Ressetted
+01/08/2022 1:22:25 295 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:22:26 234 PM		Are you sure you want to Exist The Application
+01/08/2022 1:22:26 235 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:22:26 237 PM		User:  admin  Is Closing The Application
+01/08/2022 1:22:26 258 PM		Application Closed
+
+
+01/08/2022 1:22:55 747 PM		User is Trying To create instance of the Application
+01/08/2022 1:22:55 751 PM		Application Started
+01/08/2022 1:22:55 806 PM		Login Form Initilized
+01/08/2022 1:22:56 848 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:24:06 119 PM		User is Trying To create instance of the Application
+01/08/2022 1:24:06 122 PM		Application Started
+01/08/2022 1:24:06 188 PM		Login Form Initilized
+01/08/2022 1:24:07 080 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:24:12 530 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:24:12 560 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:24:12 563 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:24:12 568 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:24:12 570 PM		Customer Tab Data Resetted
+01/08/2022 1:24:12 571 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:24:14 699 PM		Subscription Tab Selected 
+01/08/2022 1:24:14 701 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:24:14 703 PM		 Subscription Tab Ressetted
+01/08/2022 1:24:16 118 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:24:16 945 PM		Are you sure you want to Exist The Application
+01/08/2022 1:24:16 947 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:24:16 949 PM		User:  admin  Is Closing The Application
+01/08/2022 1:24:16 974 PM		Application Closed
+
+
+01/08/2022 1:24:28 864 PM		User is Trying To create instance of the Application
+01/08/2022 1:24:28 867 PM		Application Started
+01/08/2022 1:24:28 935 PM		Login Form Initilized
+01/08/2022 1:24:30 199 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:25:00 041 PM		User is Trying To create instance of the Application
+01/08/2022 1:25:00 046 PM		Application Started
+01/08/2022 1:25:00 108 PM		Login Form Initilized
+01/08/2022 1:25:01 743 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:31:27 221 PM		User is Trying To create instance of the Application
+01/08/2022 1:31:27 226 PM		Application Started
+01/08/2022 1:31:27 291 PM		Login Form Initilized
+01/08/2022 1:31:28 110 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:31:31 073 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:31:31 102 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:31:31 104 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:31:31 110 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:31:31 112 PM		Customer Tab Data Resetted
+01/08/2022 1:31:31 113 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:31:33 390 PM		Subscription Tab Selected 
+01/08/2022 1:31:33 391 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:31:33 393 PM		 Subscription Tab Ressetted
+01/08/2022 1:31:33 740 PM		Customer Tab Selected 
+01/08/2022 1:31:33 744 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 1:31:33 748 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:31:33 762 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:31:33 764 PM		Customer Tab Data Resetted
+01/08/2022 1:31:34 733 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:31:35 567 PM		Are you sure you want to Exist The Application
+01/08/2022 1:31:35 568 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:31:35 570 PM		User:  admin  Is Closing The Application
+01/08/2022 1:31:35 591 PM		Application Closed
+
+
+01/08/2022 1:42:15 742 PM		User is Trying To create instance of the Application
+01/08/2022 1:42:15 746 PM		Application Started
+01/08/2022 1:42:15 813 PM		Login Form Initilized
+01/08/2022 1:42:16 717 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:42:22 565 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:42:27 477 PM		User is Trying To create instance of the Application
+01/08/2022 1:42:27 480 PM		Application Started
+01/08/2022 1:42:27 543 PM		Login Form Initilized
+01/08/2022 1:42:28 662 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:42:33 096 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:43:16 005 PM		User is Trying To create instance of the Application
+01/08/2022 1:43:16 009 PM		Application Started
+01/08/2022 1:43:16 075 PM		Login Form Initilized
+01/08/2022 1:43:17 997 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:43:21 842 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:44:47 165 PM		User is Trying To create instance of the Application
+01/08/2022 1:44:47 170 PM		Application Started
+01/08/2022 1:44:47 232 PM		Login Form Initilized
+01/08/2022 1:44:48 006 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:44:48 040 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:45:12 548 PM		User is Trying To create instance of the Application
+01/08/2022 1:45:12 552 PM		Application Started
+01/08/2022 1:45:12 627 PM		Login Form Initilized
+01/08/2022 1:45:13 302 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:45:13 327 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:45:34 105 PM		User is Trying To create instance of the Application
+01/08/2022 1:45:34 110 PM		Application Started
+01/08/2022 1:45:34 175 PM		Login Form Initilized
+01/08/2022 1:45:34 830 PM		User:  admin  Logged in Sucessfully
+01/08/2022 1:45:34 854 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 1:45:34 890 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 1:45:34 893 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 1:45:34 901 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 1:45:34 902 PM		Customer Tab Data Resetted
+01/08/2022 1:45:34 904 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 1:45:50 068 PM		Close Button Pressed		OnFormClosing
+01/08/2022 1:45:50 824 PM		Are you sure you want to Exist The Application
+01/08/2022 1:45:50 826 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 1:45:50 828 PM		User:  admin  Is Closing The Application
+01/08/2022 1:45:50 846 PM		Application Closed
+
+
+01/08/2022 2:29:00 924 PM		User is Trying To create instance of the Application
+01/08/2022 2:29:00 927 PM		Application Started
+01/08/2022 2:29:00 988 PM		Login Form Initilized
+01/08/2022 2:29:01 812 PM		User:  admin  Logged in Sucessfully
+01/08/2022 2:29:01 844 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 2:29:01 885 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 2:29:01 888 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 2:29:01 895 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 2:29:01 897 PM		Customer Tab Data Resetted
+01/08/2022 2:29:01 899 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 2:37:09 177 PM		Close Button Pressed		OnFormClosing
+01/08/2022 2:37:10 396 PM		Are you sure you want to Exist The Application
+01/08/2022 2:37:10 397 PM		User Pressed Cancle 
+01/08/2022 2:37:12 482 PM		Search text box value Changed  o		OnTextChanged
+01/08/2022 3:26:37 682 PM		User is Trying To create instance of the Application
+01/08/2022 3:26:37 685 PM		Application Started
+01/08/2022 3:26:37 763 PM		Login Form Initilized
+01/08/2022 3:26:38 769 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:26:38 791 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:26:38 826 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:26:38 828 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:26:38 834 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:26:38 835 PM		Customer Tab Data Resetted
+01/08/2022 3:26:38 837 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:26:41 516 PM		Search text box value Changed  o		OnTextChanged
+01/08/2022 3:27:42 878 PM		User is Trying To create instance of the Application
+01/08/2022 3:27:42 881 PM		Application Started
+01/08/2022 3:27:42 946 PM		Login Form Initilized
+01/08/2022 3:27:43 952 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:27:43 974 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:27:44 008 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:27:44 010 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:27:44 019 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:27:44 020 PM		Customer Tab Data Resetted
+01/08/2022 3:27:44 022 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:27:45 776 PM		Search text box value Changed  0		OnTextChanged
+01/08/2022 3:29:24 619 PM		User is Trying To create instance of the Application
+01/08/2022 3:29:24 624 PM		Application Started
+01/08/2022 3:29:24 722 PM		Login Form Initilized
+01/08/2022 3:29:25 694 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:29:25 732 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:29:25 777 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:29:25 782 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:29:25 791 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:29:25 793 PM		Customer Tab Data Resetted
+01/08/2022 3:29:25 794 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:29:29 843 PM		Search text box value Changed  o		OnTextChanged
+01/08/2022 3:32:19 118 PM		User is Trying To create instance of the Application
+01/08/2022 3:32:19 122 PM		Application Started
+01/08/2022 3:32:19 191 PM		Login Form Initilized
+01/08/2022 3:32:20 219 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:32:20 246 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:32:20 286 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:32:20 289 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:32:20 298 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:32:20 300 PM		Customer Tab Data Resetted
+01/08/2022 3:32:20 302 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:32:22 226 PM		Search text box value Changed  o		OnTextChanged
+01/08/2022 3:34:13 879 PM		User is Trying To create instance of the Application
+01/08/2022 3:34:13 882 PM		Application Started
+01/08/2022 3:34:13 952 PM		Login Form Initilized
+01/08/2022 3:34:14 885 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:34:14 915 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:34:14 960 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:34:14 963 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:34:14 969 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:34:14 971 PM		Customer Tab Data Resetted
+01/08/2022 3:34:14 973 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:34:16 233 PM		Search text box value Changed  		OnClick
+01/08/2022 3:34:24 772 PM		User is Trying To create instance of the Application
+01/08/2022 3:34:24 776 PM		Application Started
+01/08/2022 3:34:24 843 PM		Login Form Initilized
+01/08/2022 3:34:25 828 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:34:25 849 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:34:25 880 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:34:25 882 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:34:25 887 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:34:25 888 PM		Customer Tab Data Resetted
+01/08/2022 3:34:25 889 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:34:26 739 PM		Search text box value Changed  		OnClick
+01/08/2022 3:47:47 825 PM		User is Trying To create instance of the Application
+01/08/2022 3:47:47 830 PM		Application Started
+01/08/2022 3:47:47 896 PM		Login Form Initilized
+01/08/2022 3:47:48 745 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:47:48 793 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:47:48 829 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:47:48 831 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:47:48 838 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:47:48 840 PM		Customer Tab Data Resetted
+01/08/2022 3:47:48 841 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:47:52 416 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:47:59 408 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:47:59 912 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:48:00 080 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:48:00 232 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:48:00 392 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:48:00 536 PM		Search text box value Changed  O		OnClick
+01/08/2022 3:48:03 351 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:04 080 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:04 255 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:04 416 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:04 584 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:04 752 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:10 613 PM		Subscription Tab Selected 
+01/08/2022 3:48:10 614 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 3:48:10 617 PM		 Subscription Tab Ressetted
+01/08/2022 3:48:11 042 PM		Customer Tab Selected 
+01/08/2022 3:48:11 047 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 3:48:11 052 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:48:11 066 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:48:11 069 PM		Customer Tab Data Resetted
+01/08/2022 3:48:13 977 PM		Search text box value Changed  		OnClick
+01/08/2022 3:48:18 464 PM		Close Button Pressed		OnFormClosing
+01/08/2022 3:48:20 148 PM		Are you sure you want to Exist The Application
+01/08/2022 3:48:20 150 PM		User Pressed Cancle 
+01/08/2022 3:48:20 913 PM		Close Button Pressed		OnFormClosing
+01/08/2022 3:48:22 766 PM		Are you sure you want to Exist The Application
+01/08/2022 3:48:22 767 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 3:48:22 768 PM		User:  admin  Is Closing The Application
+01/08/2022 3:48:22 790 PM		Application Closed
+
+
+01/08/2022 3:48:41 401 PM		User is Trying To create instance of the Application
+01/08/2022 3:48:41 405 PM		Application Started
+01/08/2022 3:48:41 471 PM		Login Form Initilized
+01/08/2022 3:48:42 116 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:48:42 139 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:48:42 177 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:48:42 180 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:48:42 187 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:48:42 190 PM		Customer Tab Data Resetted
+01/08/2022 3:48:42 192 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:48:45 674 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:48:46 642 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:48:46 818 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:48:46 970 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:48:50 083 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:50 418 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:50 594 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:50 746 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:50 906 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:51 075 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:51 219 PM		Search text box value Changed  0		OnClick
+01/08/2022 3:48:51 891 PM		Close Button Pressed		OnFormClosing
+01/08/2022 3:48:52 824 PM		Are you sure you want to Exist The Application
+01/08/2022 3:48:52 825 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 3:48:52 827 PM		User:  admin  Is Closing The Application
+01/08/2022 3:48:52 849 PM		Application Closed
+
+
+01/08/2022 3:49:10 952 PM		User is Trying To create instance of the Application
+01/08/2022 3:49:10 955 PM		Application Started
+01/08/2022 3:49:11 020 PM		Login Form Initilized
+01/08/2022 3:49:12 004 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:49:12 029 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:49:12 071 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:49:12 073 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:49:12 081 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:49:12 082 PM		Customer Tab Data Resetted
+01/08/2022 3:49:12 084 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:49:15 219 PM		Search text box value Changed  o		OnClick
+01/08/2022 3:51:21 140 PM		User is Trying To create instance of the Application
+01/08/2022 3:51:21 144 PM		Application Started
+01/08/2022 3:51:21 211 PM		Login Form Initilized
+01/08/2022 3:51:22 527 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:51:22 548 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:51:22 596 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:51:22 599 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:51:22 608 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:51:22 610 PM		Customer Tab Data Resetted
+01/08/2022 3:51:22 613 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:51:25 621 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:53:18 065 PM		User is Trying To create instance of the Application
+01/08/2022 3:53:18 069 PM		Application Started
+01/08/2022 3:53:18 162 PM		Login Form Initilized
+01/08/2022 3:53:18 922 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:53:18 948 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:53:18 993 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:53:18 996 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:53:19 002 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:53:19 004 PM		Customer Tab Data Resetted
+01/08/2022 3:53:19 006 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:53:21 904 PM		Search text box value Changed  079		OnClick
+01/08/2022 3:53:31 903 PM		Search text box value Changed  0799		OnClick
+01/08/2022 3:53:35 135 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:53:35 863 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:53:36 024 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:53:36 168 PM		Search text box value Changed  omar		OnClick
+01/08/2022 3:53:38 591 PM		Search text box value Changed  		OnClick
+01/08/2022 3:53:40 305 PM		Close Button Pressed		OnFormClosing
+01/08/2022 3:53:41 003 PM		Are you sure you want to Exist The Application
+01/08/2022 3:53:41 004 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 3:53:41 007 PM		User:  admin  Is Closing The Application
+01/08/2022 3:53:41 025 PM		Application Closed
+
+
+01/08/2022 3:53:46 087 PM		User is Trying To create instance of the Application
+01/08/2022 3:53:46 091 PM		Application Started
+01/08/2022 3:53:46 153 PM		Login Form Initilized
+01/08/2022 3:53:46 954 PM		User:  admin  Logged in Sucessfully
+01/08/2022 3:53:46 985 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 3:53:47 040 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 3:53:47 046 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:53:47 055 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:53:47 057 PM		Customer Tab Data Resetted
+01/08/2022 3:53:47 059 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 3:53:58 458 PM		Subscription Tab Selected 
+01/08/2022 3:53:58 460 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 3:53:58 462 PM		 Subscription Tab Ressetted
+01/08/2022 3:54:00 351 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 3:54:01 167 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 3:54:01 169 PM		Subscription DatagridView Row Selected
+01/08/2022 3:54:01 170 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   psuts 	SubscriptionCode   9	 SubscriptionFee   10	SubscriptionType   PostPaid
+01/08/2022 3:54:02 702 PM		Customer Tab Selected 
+01/08/2022 3:54:02 705 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 3:54:02 708 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 3:54:02 713 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 3:54:02 715 PM		Customer Tab Data Resetted
+01/08/2022 3:54:07 745 PM		Close Button Pressed		OnFormClosing
+01/08/2022 3:54:09 205 PM		Are you sure you want to Exist The Application
+01/08/2022 3:54:09 207 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 3:54:09 209 PM		User:  admin  Is Closing The Application
+01/08/2022 3:54:09 233 PM		Application Closed
+
+
+01/08/2022 4:03:05 951 PM		User is Trying To create instance of the Application
+01/08/2022 4:03:05 955 PM		Application Started
+01/08/2022 4:03:06 017 PM		Login Form Initilized
+01/08/2022 4:03:06 880 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:03:06 907 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:03:06 953 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:03:06 955 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:03:06 962 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:03:06 964 PM		Customer Tab Data Resetted
+01/08/2022 4:03:06 966 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:06:14 005 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:06:14 891 PM		Are you sure you want to Exist The Application
+01/08/2022 4:06:14 893 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:06:14 894 PM		User:  admin  Is Closing The Application
+01/08/2022 4:06:14 915 PM		Application Closed
+
+
+01/08/2022 4:07:47 530 PM		User is Trying To create instance of the Application
+01/08/2022 4:07:47 534 PM		Application Started
+01/08/2022 4:07:47 594 PM		Login Form Initilized
+01/08/2022 4:07:48 345 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:07:48 395 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:07:48 432 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:07:48 435 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:07:48 442 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:07:48 444 PM		Customer Tab Data Resetted
+01/08/2022 4:07:48 447 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:07:53 514 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:07:53 518 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:07:56 798 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omar	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:07:56 800 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:07:58 646 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:07:58 648 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:08:13 048 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:08:14 203 PM		Are you sure you want to Exist The Application
+01/08/2022 4:08:14 204 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:08:14 206 PM		User:  admin  Is Closing The Application
+01/08/2022 4:08:14 224 PM		Application Closed
+
+
+01/08/2022 4:18:42 407 PM		User is Trying To create instance of the Application
+01/08/2022 4:18:42 412 PM		Application Started
+01/08/2022 4:18:42 488 PM		Login Form Initilized
+01/08/2022 4:18:43 405 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:18:43 455 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:18:43 495 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:18:43 499 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:18:43 510 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:18:43 514 PM		Customer Tab Data Resetted
+01/08/2022 4:18:43 515 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:18:44 859 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omar	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:18:44 863 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:18:51 060 PM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type   Amount  10000		OnClick
+01/08/2022 4:18:51 063 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+01/08/2022 4:18:51 064 PM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   10000	 Expiry Date   11/08/2022 00:00:00
+01/08/2022 4:18:51 067 PM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type   Amount  10000
+01/08/2022 4:18:53 230 PM		Messege Box Are You Sure You want To edit ?
+01/08/2022 4:18:53 237 PM		User Pressed Ok
+01/08/2022 4:18:53 239 PM		Data Edditted Sucessfully
+01/08/2022 4:18:53 240 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+01/08/2022 4:18:53 242 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:18:53 247 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:18:53 249 PM		Customer Tab Data Resetted
+01/08/2022 4:19:08 979 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:19:08 981 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:19:29 709 PM		Clear button Pressed 		OnClick
+01/08/2022 4:19:29 711 PM		Ressiting Customer Tab data		ClearAddCustomerFormButton_Click
+01/08/2022 4:19:29 713 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:19:29 719 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:19:29 720 PM		Customer Tab Data Resetted
+01/08/2022 4:19:45 951 PM		save button preesed 	 Values   Customer Name: omar  kh  Mobile Number: 0798456123 Subscription Type   Amount  44		OnClick
+01/08/2022 4:19:45 952 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+01/08/2022 4:19:45 954 PM		Customer First Name:   omar	Customer Last Name   kh	Customer Monile Phone  0798456123	Amount   44	 Expiry Date   30/09/2022 16:19:29
+01/08/2022 4:19:47 310 PM		Unvalid Lastt Name
+01/08/2022 4:19:50 613 PM		save button preesed 	 Values   Customer Name: omar  kha  Mobile Number: 0798456123 Subscription Type   Amount  44		OnClick
+01/08/2022 4:19:50 615 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+01/08/2022 4:19:50 616 PM		Customer First Name:   omar	Customer Last Name   kha	Customer Monile Phone  0798456123	Amount   44	 Expiry Date   30/09/2022 16:19:29
+01/08/2022 4:19:51 915 PM		Are You sure about adding Customer :    Customer First Name:   omar	Customer Last Name   kha	Customer Monile Phone  0798456123	Amount   44	 Expiry Date   30/09/2022 16:19:29
+01/08/2022 4:19:51 916 PM		User Pressed Ok
+01/08/2022 4:19:54 074 PM		Customer Added Sucessfully
+01/08/2022 4:19:54 076 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+01/08/2022 4:19:54 077 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:19:54 085 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:19:54 086 PM		Customer Tab Data Resetted
+01/08/2022 4:19:59 950 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:20:00 882 PM		Are you sure you want to Exist The Application
+01/08/2022 4:20:00 884 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:20:00 885 PM		User:  admin  Is Closing The Application
+01/08/2022 4:20:00 906 PM		Application Closed
+
+
+01/08/2022 4:20:38 795 PM		User is Trying To create instance of the Application
+01/08/2022 4:20:38 799 PM		Application Started
+01/08/2022 4:20:38 868 PM		Login Form Initilized
+01/08/2022 4:20:39 641 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:20:39 672 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:20:39 712 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:20:39 716 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:20:39 724 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:20:39 726 PM		Customer Tab Data Resetted
+01/08/2022 4:20:39 728 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:20:46 650 PM		Subscription Tab Selected 
+01/08/2022 4:20:46 653 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:20:46 655 PM		 Subscription Tab Ressetted
+01/08/2022 4:20:55 088 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:20:56 053 PM		Are you sure you want to Exist The Application
+01/08/2022 4:20:56 055 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:20:56 056 PM		User:  admin  Is Closing The Application
+01/08/2022 4:20:56 080 PM		Application Closed
+
+
+01/08/2022 4:22:08 999 PM		User is Trying To create instance of the Application
+01/08/2022 4:22:09 002 PM		Application Started
+01/08/2022 4:22:09 085 PM		Login Form Initilized
+01/08/2022 4:22:09 901 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:22:09 922 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:22:09 958 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:22:09 961 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:22:09 969 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:22:09 971 PM		Customer Tab Data Resetted
+01/08/2022 4:22:09 973 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:22:12 892 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart4		OnCellClick
+01/08/2022 4:22:12 895 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:22:14 989 PM		Subscription Tab Selected 
+01/08/2022 4:22:14 992 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:22:14 995 PM		 Subscription Tab Ressetted
+01/08/2022 4:22:15 405 PM		Customer Tab Selected 
+01/08/2022 4:22:15 408 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:22:15 414 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:22:15 426 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:22:15 428 PM		Customer Tab Data Resetted
+01/08/2022 4:22:19 436 PM		Search text box value Changed  o		OnClick
+01/08/2022 4:22:20 090 PM		Subscription Tab Selected 
+01/08/2022 4:22:20 093 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:22:20 096 PM		 Subscription Tab Ressetted
+01/08/2022 4:22:20 481 PM		Customer Tab Selected 
+01/08/2022 4:22:20 485 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:22:20 488 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:22:20 500 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:22:20 502 PM		Customer Tab Data Resetted
+01/08/2022 4:22:30 405 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:22:32 472 PM		Are you sure you want to Exist The Application
+01/08/2022 4:22:32 474 PM		User Pressed Cancle 
+01/08/2022 4:22:34 196 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:22:50 633 PM		Are you sure you want to Exist The Application
+01/08/2022 4:22:50 634 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:22:50 636 PM		User:  admin  Is Closing The Application
+01/08/2022 4:22:50 658 PM		Application Closed
+
+
+01/08/2022 4:24:57 196 PM		User is Trying To create instance of the Application
+01/08/2022 4:24:57 201 PM		Application Started
+01/08/2022 4:24:57 262 PM		Login Form Initilized
+01/08/2022 4:24:58 125 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:24:58 162 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:24:58 204 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:24:58 207 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:24:58 215 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:24:58 217 PM		Customer Tab Data Resetted
+01/08/2022 4:24:58 219 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:25:00 633 PM		Search text box value Changed  s		OnClick
+01/08/2022 4:25:01 487 PM		Subscription Tab Selected 
+01/08/2022 4:25:01 489 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:25:01 491 PM		 Subscription Tab Ressetted
+01/08/2022 4:25:01 860 PM		Customer Tab Selected 
+01/08/2022 4:25:01 862 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:25:01 864 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:25:01 870 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:25:01 883 PM		Customer Tab Data Resetted
+01/08/2022 4:25:06 557 PM		Subscription Tab Selected 
+01/08/2022 4:25:06 559 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:25:06 562 PM		 Subscription Tab Ressetted
+01/08/2022 4:25:07 057 PM		Customer Tab Selected 
+01/08/2022 4:25:07 062 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:25:07 066 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:25:07 081 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:25:07 084 PM		Customer Tab Data Resetted
+01/08/2022 4:25:12 157 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:25:12 979 PM		Are you sure you want to Exist The Application
+01/08/2022 4:25:12 981 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:25:12 982 PM		User:  admin  Is Closing The Application
+01/08/2022 4:25:13 006 PM		Application Closed
+
+
+01/08/2022 4:25:23 634 PM		User is Trying To create instance of the Application
+01/08/2022 4:25:23 638 PM		Application Started
+01/08/2022 4:25:23 726 PM		Login Form Initilized
+01/08/2022 4:25:24 538 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:25:24 568 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:25:24 612 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:25:24 615 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:25:24 622 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:25:24 624 PM		Customer Tab Data Resetted
+01/08/2022 4:25:24 626 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:25:27 009 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   omar	CustomerLastName   kha 	CustomerMobileNumber   0798456123	ExpiryDate   30/09/2022 00:00:00	SubscriptionType   		OnCellClick
+01/08/2022 4:25:27 012 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+01/08/2022 4:25:28 297 PM		Customer Tab Delete Button Pressed		OnClick
+01/08/2022 4:25:28 299 PM		Message Box Are You Sure You want to delte Customer:  omar  kha	Customer
+01/08/2022 4:25:29 685 PM		User Pressed Ok
+01/08/2022 4:25:29 688 PM		Deleted Sucessfully
+01/08/2022 4:25:29 690 PM		Ressiting Customer Tab data		DeleteCustomerButton_Click
+01/08/2022 4:25:29 692 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:25:29 705 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:25:29 707 PM		Customer Tab Data Resetted
+01/08/2022 4:25:32 242 PM		Search text box value Changed  		OnClick
+01/08/2022 4:25:32 625 PM		Search text box value Changed  		OnClick
+01/08/2022 4:25:32 777 PM		Search text box value Changed  		OnClick
+01/08/2022 4:25:32 965 PM		Search text box value Changed  		OnClick
+01/08/2022 4:25:47 090 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:25:48 274 PM		Are you sure you want to Exist The Application
+01/08/2022 4:25:48 276 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:25:48 278 PM		User:  admin  Is Closing The Application
+01/08/2022 4:25:48 296 PM		Application Closed
+
+
+01/08/2022 4:26:11 177 PM		User is Trying To create instance of the Application
+01/08/2022 4:26:11 180 PM		Application Started
+01/08/2022 4:26:11 239 PM		Login Form Initilized
+01/08/2022 4:26:12 043 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:26:12 065 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:26:12 107 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:26:12 110 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:26:12 117 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:26:12 119 PM		Customer Tab Data Resetted
+01/08/2022 4:26:12 121 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:26:13 314 PM		Subscription Tab Selected 
+01/08/2022 4:26:13 316 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:26:13 319 PM		 Subscription Tab Ressetted
+01/08/2022 4:26:14 590 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 4:26:14 592 PM		Subscription DatagridView Row Selected
+01/08/2022 4:26:14 593 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   psuts 	SubscriptionCode   9	 SubscriptionFee   10	SubscriptionType   PostPaid
+01/08/2022 4:26:16 898 PM		Subscription Tab Delete Button Pressed		OnClick
+01/08/2022 4:26:18 990 PM		psuts	 have already registered users cannot be deleted
+01/08/2022 4:26:20 745 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 4:26:20 746 PM		Subscription DatagridView Row Selected
+01/08/2022 4:26:20 748 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shabab 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+01/08/2022 4:26:21 610 PM		Subscription Tab Delete Button Pressed		OnClick
+01/08/2022 4:26:22 582 PM		Shabab	 have already registered users cannot be deleted
+01/08/2022 4:26:23 761 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 4:26:23 763 PM		Subscription DatagridView Row Selected
+01/08/2022 4:26:23 764 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+01/08/2022 4:26:24 306 PM		Subscription Tab Delete Button Pressed		OnClick
+01/08/2022 4:26:29 238 PM		Smart 5	 have already registered users cannot be deleted
+01/08/2022 4:26:30 095 PM		Customer Tab Selected 
+01/08/2022 4:26:30 099 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:26:30 104 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:26:30 111 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:26:30 112 PM		Customer Tab Data Resetted
+01/08/2022 4:26:34 333 PM		Subscription Tab Selected 
+01/08/2022 4:26:34 336 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:26:34 341 PM		 Subscription Tab Ressetted
+01/08/2022 4:26:38 298 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:26:39 144 PM		Are you sure you want to Exist The Application
+01/08/2022 4:26:39 145 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:26:39 146 PM		User:  admin  Is Closing The Application
+01/08/2022 4:26:39 176 PM		Application Closed
+
+
+01/08/2022 4:28:04 531 PM		User is Trying To create instance of the Application
+01/08/2022 4:28:04 535 PM		Application Started
+01/08/2022 4:28:04 598 PM		Login Form Initilized
+01/08/2022 4:28:05 350 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:28:05 377 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:28:05 420 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:28:05 422 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:28:05 430 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:28:05 432 PM		Customer Tab Data Resetted
+01/08/2022 4:28:05 434 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:28:07 426 PM		Subscription Tab Selected 
+01/08/2022 4:28:07 428 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:28:07 430 PM		 Subscription Tab Ressetted
+01/08/2022 4:28:08 659 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 4:28:08 661 PM		Subscription DatagridView Row Selected
+01/08/2022 4:28:08 662 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+01/08/2022 4:28:09 396 PM		Subscription Tab Delete Button Pressed		OnClick
+01/08/2022 4:29:03 733 PM		User is Trying To create instance of the Application
+01/08/2022 4:29:03 736 PM		Application Started
+01/08/2022 4:29:03 805 PM		Login Form Initilized
+01/08/2022 4:29:04 798 PM		User:  admin  Logged in Sucessfully
+01/08/2022 4:29:04 832 PM		Home Scrren Form Component Initilized		LogInButton_Click
+01/08/2022 4:29:04 880 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+01/08/2022 4:29:04 883 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+01/08/2022 4:29:04 891 PM		Subscription Type Combo Box Values Reloaded Successfully
+01/08/2022 4:29:04 893 PM		Customer Tab Data Resetted
+01/08/2022 4:29:04 895 PM		Home scrren Form Loaded		OnLoad
+01/08/2022 4:29:06 126 PM		Subscription Tab Selected 
+01/08/2022 4:29:06 128 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+01/08/2022 4:29:06 132 PM		 Subscription Tab Ressetted
+01/08/2022 4:29:08 453 PM		Subscription Data Grid View Clicked		OnClick
+01/08/2022 4:29:08 455 PM		Subscription DatagridView Row Selected
+01/08/2022 4:29:08 457 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   psuts 	SubscriptionCode   9	 SubscriptionFee   10	SubscriptionType   PostPaid
+01/08/2022 4:29:09 149 PM		Subscription Tab Delete Button Pressed		OnClick
+01/08/2022 4:29:15 072 PM		Are You Sure you want to delete  psutsSubscriptionCode  9SubscriptionFee 10SubscriptionType  PostPaid
+01/08/2022 4:29:15 708 PM		Close Button Pressed		OnFormClosing
+01/08/2022 4:29:16 567 PM		Are you sure you want to Exist The Application
+01/08/2022 4:29:16 569 PM		User Pressed Yes  Application Home Screen Closing
+01/08/2022 4:29:16 570 PM		User:  admin  Is Closing The Application
+01/08/2022 4:29:16 599 PM		Application Closed
+
+

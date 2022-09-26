@@ -1,0 +1,113 @@
+03/08/2022 3:33:06 105 PM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+03/08/2022 4:02:54 339 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.FillDataGridView(DataGridView dataGridView) in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 63
+
+03/08/2022 4:03:23 591 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.GetSubscriptionsName() in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 73
+
+03/08/2022 4:03:28 821 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:28 967 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:29 080 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:41 090 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:41 093 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:41 095 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:42 352 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:42 354 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:42 356 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:48 896 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:48 901 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:48 904 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:50 335 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:50 337 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:50 356 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:51 576 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:51 579 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:51 581 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:03:53 281 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:03:53 290 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:03:53 294 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:27 640 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:27 642 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:27 643 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:28 847 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:28 849 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:28 851 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:31 849 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:31 852 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:31 855 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:32 998 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:32 999 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:33 001 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:33 554 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:33 556 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:33 557 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:36 612 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:36 616 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:36 618 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:04:38 844 PM		Excpetion Message 	The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.	 Exception stack Trace   at System.Data.Entity.Core.Objects.ObjectContext.get_Connection()
+
+03/08/2022 4:04:38 846 PM		Excpetion Message 	Exception has been thrown by the target of an invocation.	 Exception stack Trace   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+
+03/08/2022 4:04:38 848 PM		Excpetion Message 	Property accessor 'Customers' on object 'System.Data.Entity.DynamicProxies.Subscription_D0C297C39600C106E4E70AE55FB4D69DBA9AC66CB99B7794954A5B2D077918BE' threw the following exception:'The ObjectContext instance has been disposed and can no longer be used for operations that require a connection.'	 Exception stack Trace   at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+
+03/08/2022 4:13:12 991 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.GetSubscriptionsName() in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 73
+
+03/08/2022 4:13:17 374 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.GetSubscription(String code) in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 68
+
+03/08/2022 4:13:19 592 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.GetSubscription(String code) in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 68
+
+03/08/2022 4:14:33 466 PM		Excpetion Message 	The method or operation is not implemented.	 Exception stack Trace   at Project.SubscriptionDatabaseHandler.GetSubscriptionsName() in C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs:line 81
+

@@ -1,0 +1,88 @@
+25/07/2022 9:36:01 696 AM		Excpetion Message 	Exception of type 'System.Exception' was thrown.	 Exception stack Trace   at Project.HomeScreenForm.HomeScreenForm_Load(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 48
+
+25/07/2022 9:36:46 484 AM		Excpetion Message 	Exception of type 'System.Exception' was thrown.	 Exception stack Trace   at Project.HomeScreenForm.HomeScreenForm_Load(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 48
+
+25/07/2022 9:37:19 962 AM		Excpetion Message 	Exception of type 'System.Exception' was thrown.	 Exception stack Trace   at Project.HomeScreenForm.HomeScreenForm_Load(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 48
+
+25/07/2022 9:38:08 126 AM		Excpetion Message 	Exception of type 'System.Exception' was thrown.	 Exception stack Trace   at Project.HomeScreenForm.HomeScreenForm_Load(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 48
+
+25/07/2022 11:19:51 444 AM		Excpetion Message 	Rows cannot be programmatically added to the DataGridView's rows collection when the control is data-bound.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.Add(Object[] values)
+
+25/07/2022 11:26:35 886 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:26:54 143 AM		Excpetion Message 	Rows cannot be programmatically added to the DataGridView's rows collection when the control is data-bound.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.Add(DataGridViewRow dataGridViewRow)
+
+25/07/2022 11:28:07 529 AM		Excpetion Message 	Rows cannot be programmatically added to the DataGridView's rows collection when the control is data-bound.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.Add(DataGridViewRow dataGridViewRow)
+
+25/07/2022 11:39:41 911 AM		Excpetion Message 	Rows cannot be programmatically added to the DataGridView's rows collection when the control is data-bound.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.Add()
+
+25/07/2022 11:40:24 454 AM		Excpetion Message 	Rows cannot be programmatically added to the DataGridView's rows collection when the control is data-bound.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.Add()
+
+25/07/2022 11:41:49 345 AM		Excpetion Message 	No row can be added to a DataGridView control that does not have columns. Columns must be added first.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+
+25/07/2022 11:44:17 936 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:45:26 595 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:49:37 448 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:49:40 931 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:49:53 884 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:49:58 907 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:50:53 194 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:51:29 647 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:53:09 582 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:54:02 719 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:54:33 832 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:55:20 001 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 11:55:52 561 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+25/07/2022 12:04:14 429 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.HomeScreenForm.CustomerDataGridView_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 149
+
+25/07/2022 1:01:42 283 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.HomeScreenForm.CustomerSearchTextbox_TextChanged(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 658
+
+25/07/2022 1:07:55 901 PM		Excpetion Message 	ColumnCount property cannot be set on a data-bound DataGridView control.	 Exception stack Trace   at System.Windows.Forms.DataGridView.set_ColumnCount(Int32 value)
+
+25/07/2022 1:08:22 023 PM		Excpetion Message 	ColumnCount property cannot be set on a data-bound DataGridView control.	 Exception stack Trace   at System.Windows.Forms.DataGridView.set_ColumnCount(Int32 value)
+
+25/07/2022 1:29:29 676 PM		Excpetion Message 	Uncommitted new row cannot be made invisible.	 Exception stack Trace   at System.Windows.Forms.DataGridViewBand.set_Visible(Boolean value)
+
+25/07/2022 1:29:51 049 PM		Excpetion Message 	Uncommitted new row cannot be made invisible.	 Exception stack Trace   at System.Windows.Forms.DataGridViewBand.set_Visible(Boolean value)
+
+25/07/2022 3:06:18 850 PM		Excpetion Message 	test exception	 Exception stack Trace   at Project.HomeScreenForm.ClearAddCustomerFormButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 113
+
+25/07/2022 3:08:25 881 PM		Excpetion Message 	test exception	 Exception stack Trace   at Project.HomeScreenForm.ClearAddCustomerFormButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 113
+
+25/07/2022 3:12:15 948 PM		Excpetion Message 	test exception	 Exception stack Trace   at Project.HomeScreenForm.ClearAddCustomerFormButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 113
+
+25/07/2022 3:21:58 795 PM		Excpetion Message 	test exception	 Exception stack Trace   at Project.HomeScreenForm.ClearAddCustomerFormButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 113
+
+25/07/2022 3:47:23 464 PM		Excpetion Message 	!!!!! 	 Exception stack Trace   at Project.HomeScreenForm.CustomerDataGridView_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 126
+
+25/07/2022 3:49:15 261 PM		Excpetion Message 	!!!!! 	 Exception stack Trace   at Project.HomeScreenForm.CustomerDataGridView_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 126
+
+25/07/2022 3:49:23 993 PM		Excpetion Message 	test exception	 Exception stack Trace   at Project.HomeScreenForm.ClearAddCustomerFormButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 113
+

@@ -1,0 +1,1398 @@
+02/08/2022 8:03:08 670 AM		User is Trying To create instance of the Application
+02/08/2022 8:03:09 176 AM		Application Started
+02/08/2022 8:03:09 302 AM		Login Form Initilized
+02/08/2022 8:03:11 010 AM		User:  admin  Logged in Sucessfully
+02/08/2022 8:03:11 055 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 8:03:11 091 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 8:03:11 093 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 8:03:11 098 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 8:03:11 100 AM		Customer Tab Data Resetted
+02/08/2022 8:03:11 103 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 8:03:19 246 AM		Subscription Tab Selected 
+02/08/2022 8:03:19 248 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 8:03:19 251 AM		 Subscription Tab Ressetted
+02/08/2022 8:05:17 087 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 8:05:17 479 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 8:05:17 481 AM		Subscription DatagridView Row Selected
+02/08/2022 8:05:17 482 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 8:05:18 888 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 8:05:21 883 AM		Smart4	 have already registered users cannot be deleted
+02/08/2022 8:26:48 138 AM		Close Button Pressed		OnFormClosing
+02/08/2022 8:26:49 188 AM		Are you sure you want to Exist The Application
+02/08/2022 8:26:49 189 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 8:26:49 191 AM		User:  admin  Is Closing The Application
+02/08/2022 8:26:49 214 AM		Application Closed
+
+
+02/08/2022 8:44:57 958 AM		User is Trying To create instance of the Application
+02/08/2022 8:44:57 962 AM		Application Started
+02/08/2022 8:44:58 031 AM		Login Form Initilized
+02/08/2022 8:44:58 988 AM		User:  admin  Logged in Sucessfully
+02/08/2022 8:44:59 014 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 8:44:59 050 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 8:44:59 052 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 8:44:59 057 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 8:44:59 059 AM		Customer Tab Data Resetted
+02/08/2022 8:44:59 061 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 8:45:00 396 AM		Subscription Tab Selected 
+02/08/2022 8:45:00 399 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 8:45:00 403 AM		 Subscription Tab Ressetted
+02/08/2022 8:45:02 042 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 8:45:02 044 AM		Subscription DatagridView Row Selected
+02/08/2022 8:45:02 045 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 8:45:02 963 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 8:45:05 942 AM		Smart4	 have already registered users cannot be deleted
+02/08/2022 8:45:07 186 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 8:45:07 187 AM		Subscription DatagridView Row Selected
+02/08/2022 8:45:07 189 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 8:45:09 092 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 8:45:10 007 AM		Are You Sure you want to delete  Smart 5SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 8:45:10 819 AM		Close Button Pressed		OnFormClosing
+02/08/2022 8:45:11 542 AM		Are you sure you want to Exist The Application
+02/08/2022 8:45:11 543 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 8:45:11 545 AM		User:  admin  Is Closing The Application
+02/08/2022 8:45:11 566 AM		Application Closed
+
+
+02/08/2022 9:10:11 621 AM		User is Trying To create instance of the Application
+02/08/2022 9:10:11 625 AM		Application Started
+02/08/2022 9:10:11 695 AM		Login Form Initilized
+02/08/2022 9:10:12 785 AM		User:  admin  Is Closing The Application
+02/08/2022 9:10:12 801 AM		Application Closed
+
+
+02/08/2022 9:15:49 936 AM		User is Trying To create instance of the Application
+02/08/2022 9:15:49 942 AM		Application Started
+02/08/2022 9:15:50 009 AM		Login Form Initilized
+02/08/2022 9:15:50 749 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:15:50 788 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:15:50 838 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:15:50 841 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:15:50 848 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:15:50 852 AM		Customer Tab Data Resetted
+02/08/2022 9:15:50 854 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:15:52 735 AM		Subscription Tab Selected 
+02/08/2022 9:15:52 737 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:15:52 740 AM		 Subscription Tab Ressetted
+02/08/2022 9:15:53 772 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:15:53 774 AM		Subscription DatagridView Row Selected
+02/08/2022 9:15:53 776 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:15:55 380 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:15:55 382 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:15:55 384 AM		Checking Subscription tab Data Validity
+02/08/2022 9:15:55 386 AM		Subscription Valid Data
+02/08/2022 9:15:58 943 AM		Smart4	 have already registered users 
+02/08/2022 9:16:08 967 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:16:08 969 AM		User Pressed Ok
+02/08/2022 9:16:08 973 AM		Subscription Name Editted Sucessfully
+02/08/2022 9:16:11 716 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:16:12 456 AM		Are you sure you want to Exist The Application
+02/08/2022 9:16:12 457 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:16:12 458 AM		User:  admin  Is Closing The Application
+02/08/2022 9:16:12 482 AM		Application Closed
+
+
+02/08/2022 9:19:34 733 AM		User is Trying To create instance of the Application
+02/08/2022 9:19:34 737 AM		Application Started
+02/08/2022 9:19:34 807 AM		Login Form Initilized
+02/08/2022 9:19:37 549 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:19:37 569 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:19:37 597 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:19:37 599 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:19:37 603 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:19:37 604 AM		Customer Tab Data Resetted
+02/08/2022 9:19:37 606 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:19:40 671 AM		Subscription Tab Selected 
+02/08/2022 9:19:40 672 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:19:40 675 AM		 Subscription Tab Ressetted
+02/08/2022 9:19:42 084 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:19:42 086 AM		Subscription DatagridView Row Selected
+02/08/2022 9:19:42 088 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:19:43 038 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:43 041 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:43 042 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:43 044 AM		Subscription Valid Data
+02/08/2022 9:19:45 765 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:45 766 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:45 768 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:45 769 AM		Subscription Valid Data
+02/08/2022 9:19:46 284 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:46 286 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:46 287 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:46 289 AM		Subscription Valid Data
+02/08/2022 9:19:46 452 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:46 454 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:46 456 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:46 458 AM		Subscription Valid Data
+02/08/2022 9:19:46 630 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:46 631 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:46 633 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:46 635 AM		Subscription Valid Data
+02/08/2022 9:19:46 780 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:46 782 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:46 783 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:46 785 AM		Subscription Valid Data
+02/08/2022 9:19:46 941 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:46 942 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:46 944 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:46 945 AM		Subscription Valid Data
+02/08/2022 9:19:47 132 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:47 134 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:47 135 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:47 137 AM		Subscription Valid Data
+02/08/2022 9:19:47 317 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:19:47 318 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:19:47 320 AM		Checking Subscription tab Data Validity
+02/08/2022 9:19:47 321 AM		Subscription Valid Data
+02/08/2022 9:19:49 333 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:19:50 296 AM		Are you sure you want to Exist The Application
+02/08/2022 9:19:50 298 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:19:50 299 AM		User:  admin  Is Closing The Application
+02/08/2022 9:19:50 318 AM		Application Closed
+
+
+02/08/2022 9:21:21 432 AM		User is Trying To create instance of the Application
+02/08/2022 9:21:21 437 AM		Application Started
+02/08/2022 9:21:21 525 AM		Login Form Initilized
+02/08/2022 9:21:22 432 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:21:22 459 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:21:22 495 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:21:22 497 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:21:22 502 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:21:22 504 AM		Customer Tab Data Resetted
+02/08/2022 9:21:22 505 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:21:24 671 AM		Subscription Tab Selected 
+02/08/2022 9:21:24 673 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:21:24 676 AM		 Subscription Tab Ressetted
+02/08/2022 9:21:25 558 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:21:25 560 AM		Subscription DatagridView Row Selected
+02/08/2022 9:21:25 562 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:21:26 329 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:21:26 331 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:21:26 333 AM		Checking Subscription tab Data Validity
+02/08/2022 9:21:26 335 AM		Subscription Valid Data
+02/08/2022 9:21:27 771 AM		Smart4	 have already registered users 
+02/08/2022 9:21:31 206 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:21:31 208 AM		Subscription DatagridView Row Selected
+02/08/2022 9:21:31 209 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:21:31 927 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:21:31 929 AM		Values   SubscriptionName Smart 5SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 9:21:31 931 AM		Checking Subscription tab Data Validity
+02/08/2022 9:21:31 932 AM		Subscription Valid Data
+02/08/2022 9:21:34 459 AM		Are You Sure to edit Subscription data to SubscriptionName Smart 5SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 9:21:34 460 AM		User Pressed Cancle
+02/08/2022 9:21:35 399 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:21:35 400 AM		Subscription DatagridView Row Selected
+02/08/2022 9:21:35 401 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:21:36 111 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:21:36 113 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:21:36 114 AM		Checking Subscription tab Data Validity
+02/08/2022 9:21:36 115 AM		Subscription Valid Data
+02/08/2022 9:21:37 635 AM		Smart4	 have already registered users 
+02/08/2022 9:21:43 272 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:21:43 274 AM		Values   SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:21:43 274 AM		Checking Subscription tab Data Validity
+02/08/2022 9:21:43 276 AM		Subscription Valid Data
+02/08/2022 9:21:44 157 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:21:44 158 AM		User Pressed Ok
+02/08/2022 9:21:44 891 AM		Subscription Editted Sucessfully
+02/08/2022 9:21:44 893 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 9:21:44 896 AM		 Subscription Tab Ressetted
+02/08/2022 9:21:46 182 AM		Customer Tab Selected 
+02/08/2022 9:21:46 185 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:21:46 188 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:21:46 195 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:21:46 198 AM		Customer Tab Data Resetted
+02/08/2022 9:22:17 730 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:22:18 781 AM		Are you sure you want to Exist The Application
+02/08/2022 9:22:18 783 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:22:18 784 AM		User:  admin  Is Closing The Application
+02/08/2022 9:22:18 808 AM		Application Closed
+
+
+02/08/2022 9:22:20 621 AM		User is Trying To create instance of the Application
+02/08/2022 9:22:20 625 AM		Application Started
+02/08/2022 9:22:20 685 AM		Login Form Initilized
+02/08/2022 9:22:21 659 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:22:21 689 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:22:21 731 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:22:21 734 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:22:21 740 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:22:21 741 AM		Customer Tab Data Resetted
+02/08/2022 9:22:21 743 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:22:26 391 AM		Subscription Tab Selected 
+02/08/2022 9:22:26 394 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:22:26 396 AM		 Subscription Tab Ressetted
+02/08/2022 9:22:28 753 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:22:28 755 AM		Subscription DatagridView Row Selected
+02/08/2022 9:22:28 756 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44444444444444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:22:30 411 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:22:30 413 AM		Values   SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:30 415 AM		Checking Subscription tab Data Validity
+02/08/2022 9:22:30 417 AM		Subscription Valid Data
+02/08/2022 9:22:32 157 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:32 158 AM		User Pressed Cancle
+02/08/2022 9:22:35 562 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:22:35 564 AM		Values   SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:35 565 AM		Checking Subscription tab Data Validity
+02/08/2022 9:22:35 567 AM		Subscription Valid Data
+02/08/2022 9:22:36 425 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:36 426 AM		User Pressed Ok
+02/08/2022 9:22:37 647 AM		Subscription Editted Sucessfully
+02/08/2022 9:22:37 648 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 9:22:37 650 AM		 Subscription Tab Ressetted
+02/08/2022 9:22:39 529 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:22:39 530 AM		Subscription DatagridView Row Selected
+02/08/2022 9:22:39 532 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44444444444444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:22:45 210 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:22:45 212 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:45 213 AM		Checking Subscription tab Data Validity
+02/08/2022 9:22:45 214 AM		Subscription Valid Data
+02/08/2022 9:22:46 221 AM		Smart4	 have already registered users 
+02/08/2022 9:22:48 310 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:48 312 AM		User Pressed Ok
+02/08/2022 9:22:48 315 AM		Subscription Name Editted Sucessfully
+02/08/2022 9:22:55 979 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:22:55 980 AM		Subscription DatagridView Row Selected
+02/08/2022 9:22:55 982 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:22:56 411 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:22:56 412 AM		Subscription DatagridView Row Selected
+02/08/2022 9:22:56 414 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44444444444444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:22:59 595 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:22:59 597 AM		Values   SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:22:59 599 AM		Checking Subscription tab Data Validity
+02/08/2022 9:22:59 600 AM		Subscription Valid Data
+02/08/2022 9:23:00 982 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44444444444444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:23:00 984 AM		User Pressed Ok
+02/08/2022 9:23:03 302 AM		Subscription Editted Sucessfully
+02/08/2022 9:23:03 304 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 9:23:03 307 AM		 Subscription Tab Ressetted
+02/08/2022 9:23:04 979 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:23:04 980 AM		Subscription DatagridView Row Selected
+02/08/2022 9:23:04 982 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:23:06 292 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:23:07 135 AM		Are you sure you want to Exist The Application
+02/08/2022 9:23:07 136 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:23:07 138 AM		User:  admin  Is Closing The Application
+02/08/2022 9:23:07 164 AM		Application Closed
+
+
+02/08/2022 9:23:08 886 AM		User is Trying To create instance of the Application
+02/08/2022 9:23:08 890 AM		Application Started
+02/08/2022 9:23:08 949 AM		Login Form Initilized
+02/08/2022 9:23:09 829 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:23:09 854 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:23:09 889 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:23:09 891 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:23:09 898 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:23:09 900 AM		Customer Tab Data Resetted
+02/08/2022 9:23:09 903 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:23:10 822 AM		Subscription Tab Selected 
+02/08/2022 9:23:10 824 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:23:10 826 AM		 Subscription Tab Ressetted
+02/08/2022 9:23:12 204 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:23:12 205 AM		Subscription DatagridView Row Selected
+02/08/2022 9:23:12 207 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44444444444444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:23:16 541 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:23:16 542 AM		Values   SubscriptionName Smart444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:23:16 544 AM		Checking Subscription tab Data Validity
+02/08/2022 9:23:16 546 AM		Subscription Valid Data
+02/08/2022 9:23:17 504 AM		Are You Sure to edit Subscription data to SubscriptionName Smart444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:23:17 505 AM		User Pressed Ok
+02/08/2022 9:23:19 089 AM		Subscription Editted Sucessfully
+02/08/2022 9:23:19 090 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 9:23:19 094 AM		 Subscription Tab Ressetted
+02/08/2022 9:23:20 917 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:23:21 631 AM		Are you sure you want to Exist The Application
+02/08/2022 9:23:21 633 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:23:21 635 AM		User:  admin  Is Closing The Application
+02/08/2022 9:23:21 656 AM		Application Closed
+
+
+02/08/2022 9:23:23 343 AM		User is Trying To create instance of the Application
+02/08/2022 9:23:23 346 AM		Application Started
+02/08/2022 9:23:23 422 AM		Login Form Initilized
+02/08/2022 9:23:24 389 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:23:24 421 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:23:24 464 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:23:24 468 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:23:24 474 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:23:24 476 AM		Customer Tab Data Resetted
+02/08/2022 9:23:24 478 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:23:25 758 AM		Subscription Tab Selected 
+02/08/2022 9:23:25 761 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:23:25 765 AM		 Subscription Tab Ressetted
+02/08/2022 9:23:27 204 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:23:27 206 AM		Subscription DatagridView Row Selected
+02/08/2022 9:23:27 207 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:23:31 791 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:23:31 792 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:23:31 795 AM		Checking Subscription tab Data Validity
+02/08/2022 9:23:31 797 AM		Subscription Valid Data
+02/08/2022 9:23:34 002 AM		Smart4	 have already registered users 
+02/08/2022 9:23:53 248 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:23:53 250 AM		User Pressed Ok
+02/08/2022 9:23:53 254 AM		Subscription Name Editted Sucessfully
+02/08/2022 9:23:58 757 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:23:59 923 AM		Are you sure you want to Exist The Application
+02/08/2022 9:23:59 925 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:23:59 926 AM		User:  admin  Is Closing The Application
+02/08/2022 9:23:59 949 AM		Application Closed
+
+
+02/08/2022 9:24:01 666 AM		User is Trying To create instance of the Application
+02/08/2022 9:24:01 671 AM		Application Started
+02/08/2022 9:24:01 751 AM		Login Form Initilized
+02/08/2022 9:24:02 808 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:24:02 835 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:24:02 867 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:24:02 869 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:24:02 874 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:24:02 876 AM		Customer Tab Data Resetted
+02/08/2022 9:24:02 878 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:24:04 364 AM		Subscription Tab Selected 
+02/08/2022 9:24:04 366 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:24:04 368 AM		 Subscription Tab Ressetted
+02/08/2022 9:24:07 766 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:24:07 768 AM		Subscription DatagridView Row Selected
+02/08/2022 9:24:07 769 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:24:10 271 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:24:17 003 AM		Are you sure you want to Exist The Application
+02/08/2022 9:24:17 004 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:24:17 006 AM		User:  admin  Is Closing The Application
+02/08/2022 9:24:17 030 AM		Application Closed
+
+
+02/08/2022 9:35:50 428 AM		User is Trying To create instance of the Application
+02/08/2022 9:35:50 431 AM		Application Started
+02/08/2022 9:35:50 512 AM		Login Form Initilized
+02/08/2022 9:35:51 942 AM		User:  admin  Is Closing The Application
+02/08/2022 9:35:51 959 AM		Application Closed
+
+
+02/08/2022 9:49:32 899 AM		User is Trying To create instance of the Application
+02/08/2022 9:49:32 903 AM		Application Started
+02/08/2022 9:49:32 980 AM		Login Form Initilized
+02/08/2022 9:49:33 875 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:49:33 904 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:49:33 948 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:49:33 952 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:49:33 959 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:49:33 961 AM		Customer Tab Data Resetted
+02/08/2022 9:49:33 963 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:49:35 414 AM		Subscription Tab Selected 
+02/08/2022 9:49:35 416 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:49:35 419 AM		 Subscription Tab Ressetted
+02/08/2022 9:49:37 400 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:49:37 402 AM		Subscription DatagridView Row Selected
+02/08/2022 9:49:37 403 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:49:41 297 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:49:41 299 AM		Values   SubscriptionName Smart5SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:49:41 300 AM		Checking Subscription tab Data Validity
+02/08/2022 9:49:41 302 AM		Subscription Valid Data
+02/08/2022 9:49:50 332 AM		Are You Sure to edit Subscription data to SubscriptionName Smart5SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:49:50 334 AM		User Pressed Cancle
+02/08/2022 9:50:03 033 AM		Close Button Pressed		OnFormClosing
+02/08/2022 9:50:04 046 AM		Are you sure you want to Exist The Application
+02/08/2022 9:50:04 048 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 9:50:04 049 AM		User:  admin  Is Closing The Application
+02/08/2022 9:50:04 074 AM		Application Closed
+
+
+02/08/2022 9:50:08 357 AM		User is Trying To create instance of the Application
+02/08/2022 9:50:08 360 AM		Application Started
+02/08/2022 9:50:08 443 AM		Login Form Initilized
+02/08/2022 9:50:09 209 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:50:09 232 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:50:09 268 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:50:09 271 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:50:09 275 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:50:09 277 AM		Customer Tab Data Resetted
+02/08/2022 9:50:09 278 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:50:10 868 AM		Subscription Tab Selected 
+02/08/2022 9:50:10 870 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:50:10 873 AM		 Subscription Tab Ressetted
+02/08/2022 9:50:12 320 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:50:12 322 AM		Subscription DatagridView Row Selected
+02/08/2022 9:50:12 323 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:50:21 481 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:50:21 483 AM		Values   SubscriptionName Smart 5SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:50:35 338 AM		Checking Subscription tab Data Validity
+02/08/2022 9:50:46 805 AM		Subscription Valid Data
+02/08/2022 9:55:59 426 AM		User is Trying To create instance of the Application
+02/08/2022 9:55:59 429 AM		Application Started
+02/08/2022 9:55:59 495 AM		Login Form Initilized
+02/08/2022 9:56:00 397 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:56:00 425 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:56:00 470 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:56:00 473 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:56:00 479 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:56:00 482 AM		Customer Tab Data Resetted
+02/08/2022 9:56:00 484 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:56:01 817 AM		Subscription Tab Selected 
+02/08/2022 9:56:01 819 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:56:01 821 AM		 Subscription Tab Ressetted
+02/08/2022 9:56:03 013 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:56:03 014 AM		Subscription DatagridView Row Selected
+02/08/2022 9:56:03 016 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:56:08 054 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:56:08 055 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 9:56:08 057 AM		Checking Subscription tab Data Validity
+02/08/2022 9:56:08 059 AM		Subscription Valid Data
+02/08/2022 9:56:15 170 AM		Smart4	 have already registered users 
+02/08/2022 9:56:18 756 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:56:18 758 AM		Subscription DatagridView Row Selected
+02/08/2022 9:56:18 759 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:56:23 126 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:56:23 128 AM		Values   SubscriptionName Smart 444SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 9:56:23 130 AM		Checking Subscription tab Data Validity
+02/08/2022 9:56:23 131 AM		Subscription Valid Data
+02/08/2022 9:57:02 117 AM		User is Trying To create instance of the Application
+02/08/2022 9:57:02 121 AM		Application Started
+02/08/2022 9:57:02 185 AM		Login Form Initilized
+02/08/2022 9:57:02 896 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:57:02 916 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:57:02 953 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:57:02 954 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:57:02 959 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:57:02 960 AM		Customer Tab Data Resetted
+02/08/2022 9:57:02 961 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:57:04 473 AM		Subscription Tab Selected 
+02/08/2022 9:57:04 476 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:57:04 480 AM		 Subscription Tab Ressetted
+02/08/2022 9:57:05 551 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:57:05 855 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:57:05 857 AM		Subscription DatagridView Row Selected
+02/08/2022 9:57:05 858 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:57:10 558 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:57:10 560 AM		Subscription DatagridView Row Selected
+02/08/2022 9:57:10 561 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:57:17 512 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:57:17 514 AM		Values   SubscriptionName Smart 444SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 9:57:17 516 AM		Checking Subscription tab Data Validity
+02/08/2022 9:57:17 518 AM		Subscription Valid Data
+02/08/2022 9:59:10 799 AM		User is Trying To create instance of the Application
+02/08/2022 9:59:10 804 AM		Application Started
+02/08/2022 9:59:10 875 AM		Login Form Initilized
+02/08/2022 9:59:11 742 AM		User:  admin  Logged in Sucessfully
+02/08/2022 9:59:11 771 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 9:59:11 816 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 9:59:11 822 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 9:59:11 828 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 9:59:11 830 AM		Customer Tab Data Resetted
+02/08/2022 9:59:11 833 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 9:59:12 624 AM		Subscription Tab Selected 
+02/08/2022 9:59:12 626 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 9:59:12 629 AM		 Subscription Tab Ressetted
+02/08/2022 9:59:14 004 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:59:14 006 AM		Subscription DatagridView Row Selected
+02/08/2022 9:59:14 008 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 9:59:16 579 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 9:59:16 580 AM		Subscription DatagridView Row Selected
+02/08/2022 9:59:16 582 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 9:59:20 118 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 9:59:20 119 AM		Values   SubscriptionName Smart 444SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 9:59:20 121 AM		Checking Subscription tab Data Validity
+02/08/2022 9:59:20 123 AM		Subscription Valid Data
+02/08/2022 10:00:03 733 AM		User is Trying To create instance of the Application
+02/08/2022 10:00:03 738 AM		Application Started
+02/08/2022 10:00:03 806 AM		Login Form Initilized
+02/08/2022 10:00:04 567 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:00:04 591 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:00:04 634 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:00:04 637 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:00:04 643 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:00:04 645 AM		Customer Tab Data Resetted
+02/08/2022 10:00:04 647 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:00:05 811 AM		Subscription Tab Selected 
+02/08/2022 10:00:05 814 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:00:05 816 AM		 Subscription Tab Ressetted
+02/08/2022 10:00:06 926 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:00:06 928 AM		Subscription DatagridView Row Selected
+02/08/2022 10:00:06 929 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 10:00:10 550 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:00:10 552 AM		Values   SubscriptionName Smart 444SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 10:00:10 554 AM		Checking Subscription tab Data Validity
+02/08/2022 10:00:10 556 AM		Subscription Valid Data
+02/08/2022 10:00:38 703 AM		User is Trying To create instance of the Application
+02/08/2022 10:00:38 707 AM		Application Started
+02/08/2022 10:00:38 764 AM		Login Form Initilized
+02/08/2022 10:00:39 894 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:00:39 915 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:00:39 950 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:00:39 952 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:00:39 956 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:00:39 958 AM		Customer Tab Data Resetted
+02/08/2022 10:00:39 959 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:00:40 961 AM		Subscription Tab Selected 
+02/08/2022 10:00:40 963 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:00:40 965 AM		 Subscription Tab Ressetted
+02/08/2022 10:00:42 167 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:00:42 168 AM		Subscription DatagridView Row Selected
+02/08/2022 10:00:42 170 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 10:00:59 784 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:00:59 785 AM		Values   SubscriptionName Smart444SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 10:00:59 788 AM		Checking Subscription tab Data Validity
+02/08/2022 10:00:59 790 AM		Subscription Valid Data
+02/08/2022 10:12:32 637 AM		User is Trying To create instance of the Application
+02/08/2022 10:12:32 641 AM		Application Started
+02/08/2022 10:12:32 731 AM		Login Form Initilized
+02/08/2022 10:12:33 920 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:12:33 951 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:12:34 000 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:12:34 003 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:12:34 010 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:12:34 012 AM		Customer Tab Data Resetted
+02/08/2022 10:12:34 015 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:12:37 631 AM		Subscription Tab Selected 
+02/08/2022 10:12:37 633 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:12:37 635 AM		 Subscription Tab Ressetted
+02/08/2022 10:12:41 157 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:12:41 945 AM		Are you sure you want to Exist The Application
+02/08/2022 10:12:41 946 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:12:41 948 AM		User:  admin  Is Closing The Application
+02/08/2022 10:12:41 968 AM		Application Closed
+
+
+02/08/2022 10:12:46 013 AM		User is Trying To create instance of the Application
+02/08/2022 10:12:46 017 AM		Application Started
+02/08/2022 10:12:46 073 AM		Login Form Initilized
+02/08/2022 10:12:46 888 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:12:46 912 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:12:46 947 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:12:46 950 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:12:46 955 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:12:46 956 AM		Customer Tab Data Resetted
+02/08/2022 10:12:46 958 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:12:48 166 AM		Subscription Tab Selected 
+02/08/2022 10:12:48 168 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:12:48 172 AM		 Subscription Tab Ressetted
+02/08/2022 10:12:49 021 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:12:49 022 AM		Subscription DatagridView Row Selected
+02/08/2022 10:12:49 024 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:12:55 031 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:12:55 032 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:12:55 035 AM		Checking Subscription tab Data Validity
+02/08/2022 10:12:55 036 AM		Subscription Valid Data
+02/08/2022 10:13:10 994 AM		Smart4	 have already registered users 
+02/08/2022 10:13:14 059 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:13:14 061 AM		User Pressed Ok
+02/08/2022 10:14:10 762 AM		User is Trying To create instance of the Application
+02/08/2022 10:14:10 766 AM		Application Started
+02/08/2022 10:14:10 833 AM		Login Form Initilized
+02/08/2022 10:14:11 521 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:14:11 547 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:14:11 585 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:14:11 588 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:14:11 593 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:14:11 594 AM		Customer Tab Data Resetted
+02/08/2022 10:14:11 596 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:14:13 171 AM		Subscription Tab Selected 
+02/08/2022 10:14:13 172 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:13 174 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:16 798 AM		Customer Tab Selected 
+02/08/2022 10:14:16 800 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:16 803 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:14:16 807 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:14:16 809 AM		Customer Tab Data Resetted
+02/08/2022 10:14:17 997 AM		Subscription Tab Selected 
+02/08/2022 10:14:18 000 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:18 003 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:21 625 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:21 627 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:21 627 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:23 799 AM		Customer Tab Selected 
+02/08/2022 10:14:23 805 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:23 812 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:14:23 822 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:14:23 826 AM		Customer Tab Data Resetted
+02/08/2022 10:14:24 983 AM		Subscription Tab Selected 
+02/08/2022 10:14:24 985 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:24 988 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:26 824 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:26 826 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:26 828 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:32 507 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:14:32 509 AM		Values   SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:14:32 511 AM		Checking Subscription tab Data Validity
+02/08/2022 10:14:32 513 AM		Subscription Valid Data
+02/08/2022 10:14:33 926 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:14:33 928 AM		User Pressed Ok
+02/08/2022 10:14:36 029 AM		Subscription Editted Sucessfully
+02/08/2022 10:14:36 031 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:14:36 034 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:37 026 AM		Customer Tab Selected 
+02/08/2022 10:14:37 029 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:37 034 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:14:37 043 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:14:37 046 AM		Customer Tab Data Resetted
+02/08/2022 10:14:38 224 AM		Subscription Tab Selected 
+02/08/2022 10:14:38 227 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:38 231 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:39 969 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:39 971 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:39 972 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:40 305 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:40 306 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:40 308 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:40 650 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:40 651 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:40 652 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:40 969 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:14:40 970 AM		Subscription DatagridView Row Selected
+02/08/2022 10:14:40 972 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:14:41 878 AM		Customer Tab Selected 
+02/08/2022 10:14:41 880 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:41 881 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:14:41 888 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:14:41 890 AM		Customer Tab Data Resetted
+02/08/2022 10:14:47 264 AM		Subscription Tab Selected 
+02/08/2022 10:14:47 268 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:14:47 276 AM		 Subscription Tab Ressetted
+02/08/2022 10:14:51 932 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:14:52 727 AM		Are you sure you want to Exist The Application
+02/08/2022 10:14:52 729 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:14:52 730 AM		User:  admin  Is Closing The Application
+02/08/2022 10:14:52 752 AM		Application Closed
+
+
+02/08/2022 10:15:10 761 AM		User is Trying To create instance of the Application
+02/08/2022 10:15:10 771 AM		Application Started
+02/08/2022 10:15:10 859 AM		Login Form Initilized
+02/08/2022 10:15:11 941 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:15:11 964 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:15:11 996 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:15:11 998 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:15:12 005 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:15:12 007 AM		Customer Tab Data Resetted
+02/08/2022 10:15:12 009 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:15:12 897 AM		Subscription Tab Selected 
+02/08/2022 10:15:12 900 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:15:12 902 AM		 Subscription Tab Ressetted
+02/08/2022 10:15:13 908 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:15:13 909 AM		Subscription DatagridView Row Selected
+02/08/2022 10:15:13 911 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:15:32 357 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:15:32 359 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:15:32 361 AM		Checking Subscription tab Data Validity
+02/08/2022 10:15:32 363 AM		Subscription Valid Data
+02/08/2022 10:15:39 920 AM		Smart4	 have already registered users 
+02/08/2022 10:15:42 393 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:15:42 395 AM		User Pressed Ok
+02/08/2022 10:15:46 593 AM		Subscription Editted Sucessfully
+02/08/2022 10:15:46 594 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:15:46 597 AM		 Subscription Tab Ressetted
+02/08/2022 10:15:48 007 AM		Customer Tab Selected 
+02/08/2022 10:15:48 010 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:15:48 012 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:15:48 018 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:15:48 021 AM		Customer Tab Data Resetted
+02/08/2022 10:15:49 310 AM		Subscription Tab Selected 
+02/08/2022 10:15:49 316 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:15:49 321 AM		 Subscription Tab Ressetted
+02/08/2022 10:15:50 973 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:15:51 728 AM		Are you sure you want to Exist The Application
+02/08/2022 10:15:51 729 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:15:51 731 AM		User:  admin  Is Closing The Application
+02/08/2022 10:15:51 756 AM		Application Closed
+
+
+02/08/2022 10:15:58 052 AM		User is Trying To create instance of the Application
+02/08/2022 10:15:58 056 AM		Application Started
+02/08/2022 10:15:58 115 AM		Login Form Initilized
+02/08/2022 10:15:59 048 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:15:59 070 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:15:59 103 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:15:59 105 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:15:59 110 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:15:59 111 AM		Customer Tab Data Resetted
+02/08/2022 10:15:59 112 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:16:00 470 AM		Subscription Tab Selected 
+02/08/2022 10:16:00 472 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:16:00 475 AM		 Subscription Tab Ressetted
+02/08/2022 10:16:02 771 AM		Customer Tab Selected 
+02/08/2022 10:16:02 772 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:16:02 774 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:16:02 777 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:16:02 778 AM		Customer Tab Data Resetted
+02/08/2022 10:16:05 150 AM		Subscription Tab Selected 
+02/08/2022 10:16:05 157 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:16:05 161 AM		 Subscription Tab Ressetted
+02/08/2022 10:16:08 303 AM		Customer Tab Selected 
+02/08/2022 10:16:08 307 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:16:08 310 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:16:08 316 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:16:08 318 AM		Customer Tab Data Resetted
+02/08/2022 10:16:10 580 AM		Subscription Tab Selected 
+02/08/2022 10:16:10 583 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:16:10 585 AM		 Subscription Tab Ressetted
+02/08/2022 10:16:13 190 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:16:13 192 AM		Subscription DatagridView Row Selected
+02/08/2022 10:16:13 193 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:16:50 065 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:16:50 066 AM		Values   SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:16:50 068 AM		Checking Subscription tab Data Validity
+02/08/2022 10:16:50 070 AM		Subscription Valid Data
+02/08/2022 10:17:19 503 AM		User is Trying To create instance of the Application
+02/08/2022 10:17:19 507 AM		Application Started
+02/08/2022 10:17:19 574 AM		Login Form Initilized
+02/08/2022 10:17:20 384 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:17:20 407 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:17:20 444 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:17:20 446 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:17:20 450 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:17:20 451 AM		Customer Tab Data Resetted
+02/08/2022 10:17:20 453 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:17:21 722 AM		Subscription Tab Selected 
+02/08/2022 10:17:21 724 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:17:21 726 AM		 Subscription Tab Ressetted
+02/08/2022 10:17:22 768 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:17:22 769 AM		Subscription DatagridView Row Selected
+02/08/2022 10:17:22 771 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:17:25 727 AM		Customer Tab Selected 
+02/08/2022 10:17:25 729 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:17:25 731 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:17:25 738 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:17:25 740 AM		Customer Tab Data Resetted
+02/08/2022 10:17:31 294 AM		Subscription Tab Selected 
+02/08/2022 10:17:31 297 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:17:31 302 AM		 Subscription Tab Ressetted
+02/08/2022 10:17:32 863 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:17:32 864 AM		Subscription DatagridView Row Selected
+02/08/2022 10:17:32 866 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:17:37 369 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:17:37 371 AM		Values   SubscriptionName Smart55SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:17:37 372 AM		Checking Subscription tab Data Validity
+02/08/2022 10:17:37 375 AM		Subscription Valid Data
+02/08/2022 10:18:36 106 AM		User is Trying To create instance of the Application
+02/08/2022 10:18:36 110 AM		Application Started
+02/08/2022 10:18:36 185 AM		Login Form Initilized
+02/08/2022 10:18:36 995 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:18:37 027 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:18:37 068 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:18:37 070 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:18:37 077 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:18:37 078 AM		Customer Tab Data Resetted
+02/08/2022 10:18:37 081 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:18:38 407 AM		Subscription Tab Selected 
+02/08/2022 10:18:38 409 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:18:38 411 AM		 Subscription Tab Ressetted
+02/08/2022 10:18:40 713 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:18:40 715 AM		Subscription DatagridView Row Selected
+02/08/2022 10:18:40 716 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:18:44 866 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:18:44 868 AM		Values   SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:18:44 870 AM		Checking Subscription tab Data Validity
+02/08/2022 10:18:44 872 AM		Subscription Valid Data
+02/08/2022 10:19:15 295 AM		Smart44	 have already registered users 
+02/08/2022 10:19:30 435 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:19:37 069 AM		User Pressed Ok
+02/08/2022 10:20:43 571 AM		User is Trying To create instance of the Application
+02/08/2022 10:20:43 575 AM		Application Started
+02/08/2022 10:20:43 650 AM		Login Form Initilized
+02/08/2022 10:20:44 604 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:20:44 631 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:20:44 674 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:20:44 677 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:20:44 683 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:20:44 685 AM		Customer Tab Data Resetted
+02/08/2022 10:20:44 687 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:34:22 763 AM		Subscription Tab Selected 
+02/08/2022 10:34:22 766 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:34:22 769 AM		 Subscription Tab Ressetted
+02/08/2022 10:34:24 970 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:34:24 971 AM		Subscription DatagridView Row Selected
+02/08/2022 10:34:24 973 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:34:31 043 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:34:31 045 AM		Values   SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:34:31 047 AM		Checking Subscription tab Data Validity
+02/08/2022 10:34:31 049 AM		Subscription Valid Data
+02/08/2022 10:34:40 877 AM		Are You Sure to edit Subscription data to SubscriptionName Smart4SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:34:40 879 AM		User Pressed Ok
+02/08/2022 10:34:41 645 AM		Subscription Editted Sucessfully
+02/08/2022 10:34:41 647 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:34:41 650 AM		 Subscription Tab Ressetted
+02/08/2022 10:34:43 020 AM		Customer Tab Selected 
+02/08/2022 10:34:43 023 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:34:43 026 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:34:43 033 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:34:43 036 AM		Customer Tab Data Resetted
+02/08/2022 10:34:54 859 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:34:56 528 AM		Are you sure you want to Exist The Application
+02/08/2022 10:34:56 530 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:34:56 531 AM		User:  admin  Is Closing The Application
+02/08/2022 10:34:56 555 AM		Application Closed
+
+
+02/08/2022 10:34:58 815 AM		User is Trying To create instance of the Application
+02/08/2022 10:34:58 818 AM		Application Started
+02/08/2022 10:34:58 887 AM		Login Form Initilized
+02/08/2022 10:34:59 724 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:34:59 747 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:34:59 786 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:34:59 788 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:34:59 793 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:34:59 794 AM		Customer Tab Data Resetted
+02/08/2022 10:34:59 796 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:35:00 990 AM		Subscription Tab Selected 
+02/08/2022 10:35:00 992 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:35:00 994 AM		 Subscription Tab Ressetted
+02/08/2022 10:35:02 498 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:35:02 500 AM		Subscription DatagridView Row Selected
+02/08/2022 10:35:02 501 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:35:08 276 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:35:08 277 AM		Values   SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:35:08 279 AM		Checking Subscription tab Data Validity
+02/08/2022 10:35:08 281 AM		Subscription Valid Data
+02/08/2022 10:35:13 870 AM		Smart44	 have already registered users 
+02/08/2022 10:35:16 166 AM		Are You Sure to edit Subscription data to SubscriptionName Smart44SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 10:35:16 168 AM		User Pressed Ok
+02/08/2022 10:36:23 625 AM		Subscription Editted Sucessfully
+02/08/2022 10:36:23 627 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:36:23 630 AM		 Subscription Tab Ressetted
+02/08/2022 10:36:29 344 AM		Customer Tab Selected 
+02/08/2022 10:36:29 347 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:36:29 350 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:36:29 361 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:36:29 364 AM		Customer Tab Data Resetted
+02/08/2022 10:36:33 689 AM		Subscription Tab Selected 
+02/08/2022 10:36:33 693 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:36:33 696 AM		 Subscription Tab Ressetted
+02/08/2022 10:36:36 715 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:36:36 717 AM		Subscription DatagridView Row Selected
+02/08/2022 10:36:36 718 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 10:36:37 307 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:36:37 308 AM		Subscription DatagridView Row Selected
+02/08/2022 10:36:37 310 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:36:37 971 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:36:37 973 AM		Subscription DatagridView Row Selected
+02/08/2022 10:36:37 974 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:36:38 324 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:36:38 325 AM		Subscription DatagridView Row Selected
+02/08/2022 10:36:38 327 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart4 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:36:40 789 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:36:41 566 AM		Are you sure you want to Exist The Application
+02/08/2022 10:36:41 568 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:36:41 569 AM		User:  admin  Is Closing The Application
+02/08/2022 10:36:41 591 AM		Application Closed
+
+
+02/08/2022 10:43:41 053 AM		User is Trying To create instance of the Application
+02/08/2022 10:43:41 057 AM		Application Started
+02/08/2022 10:43:41 117 AM		Login Form Initilized
+02/08/2022 10:43:42 040 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:43:42 071 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:43:42 107 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:43:42 110 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:43:42 115 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:43:42 117 AM		Customer Tab Data Resetted
+02/08/2022 10:43:42 118 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:43:44 130 AM		Subscription Tab Selected 
+02/08/2022 10:43:44 133 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:43:44 136 AM		 Subscription Tab Ressetted
+02/08/2022 10:43:47 264 AM		Customer Tab Selected 
+02/08/2022 10:43:47 267 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:43:47 271 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:43:47 279 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:43:47 282 AM		Customer Tab Data Resetted
+02/08/2022 10:43:50 212 AM		Subscription Tab Selected 
+02/08/2022 10:43:50 215 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:43:50 218 AM		 Subscription Tab Ressetted
+02/08/2022 10:43:54 248 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:43:55 715 AM		Are you sure you want to Exist The Application
+02/08/2022 10:43:55 716 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:43:55 718 AM		User:  admin  Is Closing The Application
+02/08/2022 10:43:55 738 AM		Application Closed
+
+
+02/08/2022 10:54:41 663 AM		User is Trying To create instance of the Application
+02/08/2022 10:54:41 667 AM		Application Started
+02/08/2022 10:54:41 738 AM		Login Form Initilized
+02/08/2022 10:54:42 750 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:54:42 776 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:54:42 814 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:54:42 816 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:54:42 822 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:54:42 823 AM		Customer Tab Data Resetted
+02/08/2022 10:54:42 825 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:54:44 128 AM		Subscription Tab Selected 
+02/08/2022 10:54:44 130 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:54:44 132 AM		 Subscription Tab Ressetted
+02/08/2022 10:54:45 573 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:54:45 575 AM		Subscription DatagridView Row Selected
+02/08/2022 10:54:45 577 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   psuts 	SubscriptionCode   9	 SubscriptionFee   10	SubscriptionType   PostPaid
+02/08/2022 10:54:48 616 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:54:48 617 AM		Values   SubscriptionName psutssSubscriptionCode  9SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 10:54:48 619 AM		Checking Subscription tab Data Validity
+02/08/2022 10:54:48 621 AM		Subscription Valid Data
+02/08/2022 10:54:53 104 AM		Are You Sure to edit Subscription data to SubscriptionName psutssSubscriptionCode  9SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 10:54:53 105 AM		User Pressed Ok
+02/08/2022 10:54:54 809 AM		Subscription Editted Sucessfully
+02/08/2022 10:54:54 810 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:54:54 813 AM		 Subscription Tab Ressetted
+02/08/2022 10:55:07 934 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:55:08 817 AM		Are you sure you want to Exist The Application
+02/08/2022 10:55:08 819 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:55:08 820 AM		User:  admin  Is Closing The Application
+02/08/2022 10:55:08 846 AM		Application Closed
+
+
+02/08/2022 10:58:13 876 AM		User is Trying To create instance of the Application
+02/08/2022 10:58:13 880 AM		Application Started
+02/08/2022 10:58:13 944 AM		Login Form Initilized
+02/08/2022 10:58:14 823 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:58:14 851 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:58:14 888 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:58:14 891 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:58:14 896 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:58:14 897 AM		Customer Tab Data Resetted
+02/08/2022 10:58:14 899 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 10:58:20 024 AM		Subscription Tab Selected 
+02/08/2022 10:58:20 026 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:58:20 029 AM		 Subscription Tab Ressetted
+02/08/2022 10:58:22 317 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:58:22 780 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:58:22 782 AM		Subscription DatagridView Row Selected
+02/08/2022 10:58:22 784 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   psutss 	SubscriptionCode   9	 SubscriptionFee   10	SubscriptionType   PostPaid
+02/08/2022 10:58:24 997 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 10:58:29 465 AM		Are You Sure you want to delete  psutssSubscriptionCode  9SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 10:58:33 572 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 10:58:34 801 AM		Are You Sure you want to delete  psutsSubscriptionCode  9SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 10:58:34 803 AM		User Pressed Ok
+02/08/2022 10:58:37 176 AM		Deleted Sucessfully
+02/08/2022 10:58:37 178 AM		Resetting Subscription Tab		DeleteSubscriptionButton_Click
+02/08/2022 10:58:37 182 AM		 Subscription Tab Ressetted
+02/08/2022 10:58:39 532 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:58:39 534 AM		Subscription DatagridView Row Selected
+02/08/2022 10:58:39 536 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 10:58:46 342 AM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 10:58:46 344 AM		Values   SubscriptionName Smart 5+SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 10:58:46 345 AM		Checking Subscription tab Data Validity
+02/08/2022 10:58:46 347 AM		Subscription Valid Data
+02/08/2022 10:58:47 184 AM		Are You Sure to edit Subscription data to SubscriptionName Smart 5+SubscriptionCode  6SubscriptionFee 7.3SubscriptionType  PrePaid
+02/08/2022 10:58:47 185 AM		User Pressed Ok
+02/08/2022 10:58:48 272 AM		Subscription Editted Sucessfully
+02/08/2022 10:58:48 274 AM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 10:58:48 277 AM		 Subscription Tab Ressetted
+02/08/2022 10:59:00 709 AM		Subscription Tab Add Subscription Button Pressed		OnClick
+02/08/2022 10:59:00 711 AM		valuesSubscriptionName   GG	Subscription Code4	Fees   10	PackgeType   
+02/08/2022 10:59:00 713 AM		Checking Subscription tab Data Validity
+02/08/2022 10:59:00 715 AM		Subscription Valid Data
+02/08/2022 10:59:00 716 AM		Adding subscription:		SubscriptionName   GG	Subscription Code4	Fees   10	PackgeType   PostPaid
+02/08/2022 10:59:04 088 AM		Subscription added Sucessfully
+02/08/2022 10:59:04 089 AM		Resetting Subscription Tab		AddSubscriptionButton_Click
+02/08/2022 10:59:04 091 AM		 Subscription Tab Ressetted
+02/08/2022 10:59:06 959 AM		Customer Tab Selected 
+02/08/2022 10:59:06 964 AM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:59:06 968 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:59:06 976 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:59:06 979 AM		Customer Tab Data Resetted
+02/08/2022 10:59:08 292 AM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart44		OnCellClick
+02/08/2022 10:59:08 297 AM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 10:59:12 702 AM		Subscription Tab Selected 
+02/08/2022 10:59:12 707 AM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 10:59:12 711 AM		 Subscription Tab Ressetted
+02/08/2022 10:59:13 651 AM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 10:59:13 653 AM		Subscription DatagridView Row Selected
+02/08/2022 10:59:13 654 AM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 10:59:14 557 AM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 10:59:15 568 AM		Smart44	 have already registered users cannot be deleted
+02/08/2022 10:59:16 445 AM		Close Button Pressed		OnFormClosing
+02/08/2022 10:59:17 248 AM		Are you sure you want to Exist The Application
+02/08/2022 10:59:17 249 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 10:59:17 251 AM		User:  admin  Is Closing The Application
+02/08/2022 10:59:17 276 AM		Application Closed
+
+
+02/08/2022 10:59:57 622 AM		User is Trying To create instance of the Application
+02/08/2022 10:59:57 625 AM		Application Started
+02/08/2022 10:59:57 694 AM		Login Form Initilized
+02/08/2022 10:59:58 701 AM		User:  admin  Logged in Sucessfully
+02/08/2022 10:59:58 730 AM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 10:59:58 764 AM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 10:59:58 766 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 10:59:58 773 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 10:59:58 775 AM		Customer Tab Data Resetted
+02/08/2022 10:59:58 776 AM		Home scrren Form Loaded		OnLoad
+02/08/2022 11:00:00 845 AM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   		OnCellClick
+02/08/2022 11:00:00 848 AM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 11:00:04 574 AM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Smart44 Amount  10000		OnClick
+02/08/2022 11:00:04 576 AM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 11:00:04 577 AM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   10000	 Expiry Date   11/08/2022 00:00:00
+02/08/2022 11:00:04 580 AM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Smart44 Amount  10000
+02/08/2022 11:00:05 512 AM		Messege Box Are You Sure You want To edit ?
+02/08/2022 11:00:05 518 AM		User Pressed Ok
+02/08/2022 11:00:05 520 AM		Data Edditted Sucessfully
+02/08/2022 11:00:05 521 AM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 11:00:05 523 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 11:00:05 529 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 11:00:05 531 AM		Customer Tab Data Resetted
+02/08/2022 11:00:07 931 AM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Smart44		OnCellClick
+02/08/2022 11:00:07 935 AM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 11:00:10 238 AM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shabab Amount  10000		OnClick
+02/08/2022 11:00:10 239 AM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 11:00:10 240 AM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   10000	 Expiry Date   11/08/2022 00:00:00
+02/08/2022 11:00:10 241 AM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shabab Amount  10000
+02/08/2022 11:00:11 024 AM		Messege Box Are You Sure You want To edit ?
+02/08/2022 11:00:11 029 AM		User Pressed Ok
+02/08/2022 11:00:11 030 AM		Data Edditted Sucessfully
+02/08/2022 11:00:11 031 AM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 11:00:11 033 AM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 11:00:11 039 AM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 11:00:11 040 AM		Customer Tab Data Resetted
+02/08/2022 11:00:20 308 AM		Close Button Pressed		OnFormClosing
+02/08/2022 11:00:35 792 AM		Are you sure you want to Exist The Application
+02/08/2022 11:00:35 793 AM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 11:00:35 794 AM		User:  admin  Is Closing The Application
+02/08/2022 11:00:35 817 AM		Application Closed
+
+
+02/08/2022 12:05:21 643 PM		User is Trying To create instance of the Application
+02/08/2022 12:05:21 654 PM		Application Started
+02/08/2022 12:05:21 720 PM		Login Form Initilized
+02/08/2022 12:05:22 766 PM		User:  admin  Logged in Sucessfully
+02/08/2022 12:05:22 793 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 12:05:22 831 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 12:05:22 833 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:05:22 838 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:05:22 840 PM		Customer Tab Data Resetted
+02/08/2022 12:05:22 842 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 12:05:45 159 PM		Subscription Tab Selected 
+02/08/2022 12:05:45 167 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:05:45 169 PM		 Subscription Tab Ressetted
+02/08/2022 12:05:57 843 PM		Customer Tab Selected 
+02/08/2022 12:05:57 844 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:05:57 846 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:05:57 850 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:05:57 851 PM		Customer Tab Data Resetted
+02/08/2022 12:06:05 195 PM		Subscription Tab Selected 
+02/08/2022 12:06:05 197 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:06:05 198 PM		 Subscription Tab Ressetted
+02/08/2022 12:06:07 828 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:06:07 830 PM		Subscription DatagridView Row Selected
+02/08/2022 12:06:07 832 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart44 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 12:06:08 686 PM		Subscription Tab Delete Button Pressed		OnClick
+02/08/2022 12:06:09 801 PM		Smart44	 have already registered users cannot be deleted
+02/08/2022 12:06:15 863 PM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 12:06:15 865 PM		Values   SubscriptionName Smart444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 12:06:15 866 PM		Checking Subscription tab Data Validity
+02/08/2022 12:06:15 868 PM		Subscription Valid Data
+02/08/2022 12:06:20 353 PM		Smart444	 have already registered users 
+02/08/2022 12:06:23 074 PM		Are You Sure to edit Subscription data to SubscriptionName Smart444SubscriptionCode  3SubscriptionFee 4.6SubscriptionType  PrePaid
+02/08/2022 12:06:23 075 PM		User Pressed Ok
+02/08/2022 12:07:02 533 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:07:02 535 PM		Subscription DatagridView Row Selected
+02/08/2022 12:07:02 536 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart444 	SubscriptionCode   3	 SubscriptionFee   4.6	SubscriptionType   PrePaid
+02/08/2022 12:07:03 850 PM		Customer Tab Selected 
+02/08/2022 12:07:03 854 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:07:03 857 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:07:03 866 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:07:03 868 PM		Customer Tab Data Resetted
+02/08/2022 12:07:15 583 PM		Subscription Tab Selected 
+02/08/2022 12:07:15 585 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:07:15 587 PM		 Subscription Tab Ressetted
+02/08/2022 12:07:17 558 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:07:17 559 PM		Subscription DatagridView Row Selected
+02/08/2022 12:07:17 561 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Smart 5+ 	SubscriptionCode   6	 SubscriptionFee   7.3	SubscriptionType   PrePaid
+02/08/2022 12:07:18 682 PM		Customer Tab Selected 
+02/08/2022 12:07:18 685 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:07:18 687 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:07:18 697 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:07:18 699 PM		Customer Tab Data Resetted
+02/08/2022 12:07:20 352 PM		Subscription Tab Selected 
+02/08/2022 12:07:20 356 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:07:20 364 PM		 Subscription Tab Ressetted
+02/08/2022 12:07:22 436 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:07:22 438 PM		Subscription DatagridView Row Selected
+02/08/2022 12:07:22 439 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shabab 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+02/08/2022 12:07:25 326 PM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 12:07:25 328 PM		Values   SubscriptionName Shabab1SubscriptionCode  1SubscriptionFee 4.2SubscriptionType  PrePaid
+02/08/2022 12:07:25 329 PM		Checking Subscription tab Data Validity
+02/08/2022 12:07:25 331 PM		Subscription Valid Data
+02/08/2022 12:07:26 049 PM		Shabab1	 have already registered users 
+02/08/2022 12:07:26 865 PM		Are You Sure to edit Subscription data to SubscriptionName Shabab1SubscriptionCode  1SubscriptionFee 4.2SubscriptionType  PrePaid
+02/08/2022 12:07:26 866 PM		User Pressed Ok
+02/08/2022 12:08:57 802 PM		User is Trying To create instance of the Application
+02/08/2022 12:08:57 806 PM		Application Started
+02/08/2022 12:08:57 881 PM		Login Form Initilized
+02/08/2022 12:08:58 744 PM		User:  admin  Logged in Sucessfully
+02/08/2022 12:08:58 769 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 12:08:58 802 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 12:08:58 804 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:08:58 809 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:08:58 810 PM		Customer Tab Data Resetted
+02/08/2022 12:08:58 812 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 12:09:00 314 PM		Subscription Tab Selected 
+02/08/2022 12:09:00 316 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:09:00 318 PM		 Subscription Tab Ressetted
+02/08/2022 12:09:02 446 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:09:02 447 PM		Subscription DatagridView Row Selected
+02/08/2022 12:09:02 449 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shabab1 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+02/08/2022 12:09:06 354 PM		Customer Tab Selected 
+02/08/2022 12:09:06 358 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:09:06 362 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:09:06 370 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:09:06 372 PM		Customer Tab Data Resetted
+02/08/2022 12:09:09 800 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Shabab		OnCellClick
+02/08/2022 12:09:09 803 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:09:12 695 PM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shabab1 Amount  10000		OnClick
+02/08/2022 12:09:12 698 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:09:12 699 PM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   10000	 Expiry Date   11/08/2022 00:00:00
+02/08/2022 12:09:12 702 PM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shabab1 Amount  10000
+02/08/2022 12:09:13 610 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:09:13 616 PM		User Pressed Ok
+02/08/2022 12:09:13 617 PM		Data Edditted Sucessfully
+02/08/2022 12:09:13 619 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:09:13 623 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:09:13 627 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:09:13 629 PM		Customer Tab Data Resetted
+02/08/2022 12:09:30 198 PM		Subscription Tab Selected 
+02/08/2022 12:09:30 200 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:09:30 203 PM		 Subscription Tab Ressetted
+02/08/2022 12:09:32 789 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:09:32 791 PM		Subscription DatagridView Row Selected
+02/08/2022 12:09:32 792 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shabab1 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+02/08/2022 12:11:31 548 PM		Customer Tab Selected 
+02/08/2022 12:11:31 551 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:11:31 553 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:11:31 559 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:11:31 561 PM		Customer Tab Data Resetted
+02/08/2022 12:11:34 779 PM		Subscription Tab Selected 
+02/08/2022 12:11:34 784 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:11:34 795 PM		 Subscription Tab Ressetted
+02/08/2022 12:11:36 347 PM		Customer Tab Selected 
+02/08/2022 12:11:36 350 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:11:36 353 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:11:36 364 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:11:36 366 PM		Customer Tab Data Resetted
+02/08/2022 12:11:40 591 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Shabab1		OnCellClick
+02/08/2022 12:11:40 594 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:11:42 775 PM		Subscription Tab Selected 
+02/08/2022 12:11:42 777 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:11:42 778 PM		 Subscription Tab Ressetted
+02/08/2022 12:11:43 974 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:11:43 975 PM		Subscription DatagridView Row Selected
+02/08/2022 12:11:43 977 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shabab1 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+02/08/2022 12:11:55 866 PM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 12:11:55 867 PM		Values   SubscriptionName Shaba 44SubscriptionCode  1SubscriptionFee 4.2SubscriptionType  PrePaid
+02/08/2022 12:11:55 869 PM		Checking Subscription tab Data Validity
+02/08/2022 12:11:55 870 PM		Subscription Valid Data
+02/08/2022 12:11:56 964 PM		Shaba 44	 have already registered users 
+02/08/2022 12:12:01 851 PM		Are You Sure to edit Subscription data to SubscriptionName Shaba 44SubscriptionCode  1SubscriptionFee 4.2SubscriptionType  PrePaid
+02/08/2022 12:12:01 854 PM		User Pressed Ok
+02/08/2022 12:15:25 269 PM		User is Trying To create instance of the Application
+02/08/2022 12:15:25 273 PM		Application Started
+02/08/2022 12:15:25 339 PM		Login Form Initilized
+02/08/2022 12:15:26 425 PM		User:  admin  Logged in Sucessfully
+02/08/2022 12:15:26 460 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 12:15:26 503 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 12:15:26 506 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:15:26 512 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:15:26 514 PM		Customer Tab Data Resetted
+02/08/2022 12:15:26 518 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 12:15:28 639 PM		Subscription Tab Selected 
+02/08/2022 12:15:28 642 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:15:28 645 PM		 Subscription Tab Ressetted
+02/08/2022 12:15:30 502 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:15:30 504 PM		Subscription DatagridView Row Selected
+02/08/2022 12:15:30 506 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   GG 	SubscriptionCode   4	 SubscriptionFee   10	SubscriptionType   PostPaid
+02/08/2022 12:15:32 470 PM		Customer Tab Selected 
+02/08/2022 12:15:32 473 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:15:32 476 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:15:32 484 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:15:32 486 PM		Customer Tab Data Resetted
+02/08/2022 12:15:34 027 PM		Subscription Tab Selected 
+02/08/2022 12:15:34 031 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:15:34 038 PM		 Subscription Tab Ressetted
+02/08/2022 12:15:35 958 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:15:35 960 PM		Subscription DatagridView Row Selected
+02/08/2022 12:15:35 961 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   Shaba 44 	SubscriptionCode   1	 SubscriptionFee   4.2	SubscriptionType   PrePaid
+02/08/2022 12:15:38 791 PM		Subscription Data Grid View Clicked		OnClick
+02/08/2022 12:15:38 792 PM		Subscription DatagridView Row Selected
+02/08/2022 12:15:38 793 PM		Subscription Tab DatagridView Row Selected	 	 SubscriptionName   GG 	SubscriptionCode   4	 SubscriptionFee   10	SubscriptionType   PostPaid
+02/08/2022 12:15:45 232 PM		Subscription Tab Edit Button Pressed		OnClick
+02/08/2022 12:15:45 233 PM		Values   SubscriptionName GG1SubscriptionCode  4SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 12:15:45 235 PM		Checking Subscription tab Data Validity
+02/08/2022 12:15:45 237 PM		Subscription Valid Data
+02/08/2022 12:15:59 201 PM		Are You Sure to edit Subscription data to SubscriptionName GG1SubscriptionCode  4SubscriptionFee 10SubscriptionType  PostPaid
+02/08/2022 12:16:01 358 PM		User Pressed Ok
+02/08/2022 12:16:04 755 PM		Subscription Editted Sucessfully
+02/08/2022 12:16:04 756 PM		Resetting Subscription Tab		EditSubscriptionButton_Click
+02/08/2022 12:16:04 759 PM		 Subscription Tab Ressetted
+02/08/2022 12:16:10 468 PM		Close Button Pressed		OnFormClosing
+02/08/2022 12:16:11 443 PM		Are you sure you want to Exist The Application
+02/08/2022 12:16:11 445 PM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 12:16:11 447 PM		User:  admin  Is Closing The Application
+02/08/2022 12:16:11 471 PM		Application Closed
+
+
+02/08/2022 12:21:34 047 PM		User is Trying To create instance of the Application
+02/08/2022 12:21:34 051 PM		Application Started
+02/08/2022 12:21:34 128 PM		Login Form Initilized
+02/08/2022 12:21:35 271 PM		User:  admin  Logged in Sucessfully
+02/08/2022 12:21:35 295 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 12:21:35 335 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 12:21:35 337 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:21:35 346 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:21:35 348 PM		Customer Tab Data Resetted
+02/08/2022 12:21:35 350 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 12:21:42 391 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart44		OnCellClick
+02/08/2022 12:21:42 395 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:22:57 857 PM		save button preesed 	 Values   Customer Name: lugin  omark  Mobile Number: 0798654329 Subscription Type  Smart444 Amount  10.5		OnClick
+02/08/2022 12:22:57 859 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:22:57 861 PM		Customer First Name:   lugin	Customer Last Name   omark	Customer Monile Phone  0798654329	Amount   10.5	 Expiry Date   06/09/2022 00:00:00
+02/08/2022 12:23:03 037 PM		Are You sure about adding Customer :    Customer First Name:   lugin	Customer Last Name   omark	Customer Monile Phone  0798654329	Amount   10.5	 Expiry Date   06/09/2022 00:00:00
+02/08/2022 12:23:03 039 PM		User Pressed Ok
+02/08/2022 12:23:04 243 PM		Customer Added Sucessfully
+02/08/2022 12:23:04 245 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:23:04 247 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:23:04 252 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:23:04 254 PM		Customer Tab Data Resetted
+02/08/2022 12:23:09 359 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart44		OnCellClick
+02/08/2022 12:23:09 361 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:23:12 648 PM		save button preesed 	 Values   Customer Name: lugin  omark  Mobile Number: 0798654321 Subscription Type  Smart444 Amount  10.5		OnClick
+02/08/2022 12:23:12 649 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:23:12 651 PM		Customer First Name:   lugin	Customer Last Name   omark	Customer Monile Phone  0798654321	Amount   10.5	 Expiry Date   06/09/2022 00:00:00
+02/08/2022 12:23:12 653 PM		Customer New value to be editted Customer Name: lugin  omark  Mobile Number: 0798654321 Subscription Type  Smart444 Amount  10.5
+02/08/2022 12:23:14 731 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:23:14 737 PM		User Pressed Ok
+02/08/2022 12:23:14 739 PM		Data Edditted Sucessfully
+02/08/2022 12:23:14 740 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:23:14 742 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:23:14 746 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:23:14 748 PM		Customer Tab Data Resetted
+02/08/2022 12:23:17 072 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   11/08/2022 00:00:00	SubscriptionType   Shabab1		OnCellClick
+02/08/2022 12:23:17 074 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:23:21 624 PM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Smart444 Amount  10000		OnClick
+02/08/2022 12:23:21 627 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:23:21 628 PM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   10000	 Expiry Date   11/08/2022 00:00:00
+02/08/2022 12:23:21 629 PM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Smart444 Amount  10000
+02/08/2022 12:23:23 339 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:23:23 340 PM		User Pressed Cancle
+02/08/2022 12:23:58 921 PM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shaba 44 Amount  5		OnClick
+02/08/2022 12:23:58 922 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:23:58 924 PM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   5	 Expiry Date   11/07/2022 00:00:00
+02/08/2022 12:24:01 526 PM		Unvalid Expiry Date
+02/08/2022 12:24:06 841 PM		save button preesed 	 Values   Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shaba 44 Amount  5		OnClick
+02/08/2022 12:24:06 843 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:24:06 844 PM		Customer First Name:   Omarkh	Customer Last Name   Khwaileh	Customer Monile Phone  0799175601	Amount   5	 Expiry Date   20/08/2022 00:00:00
+02/08/2022 12:24:06 846 PM		Customer New value to be editted Customer Name: Omarkh  Khwaileh  Mobile Number: 0799175601 Subscription Type  Shaba 44 Amount  5
+02/08/2022 12:24:09 398 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:24:09 403 PM		User Pressed Ok
+02/08/2022 12:24:09 404 PM		Data Edditted Sucessfully
+02/08/2022 12:24:09 406 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:24:09 408 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:24:09 412 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:24:09 414 PM		Customer Tab Data Resetted
+02/08/2022 12:24:11 040 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654329	ExpiryDate   01/10/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:24:11 043 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:24:12 647 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:24:12 650 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:24:14 728 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   20/08/2022 00:00:00	SubscriptionType   Shaba 44		OnCellClick
+02/08/2022 12:24:14 732 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:27:11 618 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:27:11 621 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:27:19 507 PM		save button preesed 	 Values   Customer Name: lugin4  omark4  Mobile Number: 0798654321 Subscription Type  Smart444 Amount  10.5		OnClick
+02/08/2022 12:27:19 508 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:27:19 510 PM		Customer First Name:   lugin4	Customer Last Name   omark4	Customer Monile Phone  0798654321	Amount   10.5	 Expiry Date   06/09/2022 00:00:00
+02/08/2022 12:27:20 719 PM		Unvalid Lastt Name
+02/08/2022 12:27:35 531 PM		save button preesed 	 Values   Customer Name: luginp  omarkp  Mobile Number: 0798654321 Subscription Type  Smart444 Amount  10.5		OnClick
+02/08/2022 12:27:35 533 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:27:35 535 PM		Customer First Name:   luginp	Customer Last Name   omarkp	Customer Monile Phone  0798654321	Amount   10.5	 Expiry Date   06/09/2022 00:00:00
+02/08/2022 12:27:35 536 PM		Customer New value to be editted Customer Name: luginp  omarkp  Mobile Number: 0798654321 Subscription Type  Smart444 Amount  10.5
+02/08/2022 12:27:36 822 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:27:36 827 PM		User Pressed Ok
+02/08/2022 12:27:36 829 PM		Data Edditted Sucessfully
+02/08/2022 12:27:36 831 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:27:36 833 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:27:36 838 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:27:36 840 PM		Customer Tab Data Resetted
+02/08/2022 12:27:39 730 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654329	ExpiryDate   01/10/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:27:39 735 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:27:41 483 PM		save button preesed 	 Values   Customer Name: lugin  omark  Mobile Number: 0798654329 Subscription Type  Smart444 Amount  10.5		OnClick
+02/08/2022 12:27:41 485 PM		Checking Customer tab Data Validity		SaveCustomerButton_Click
+02/08/2022 12:27:41 486 PM		Customer First Name:   lugin	Customer Last Name   omark	Customer Monile Phone  0798654329	Amount   10.5	 Expiry Date   01/10/2022 00:00:00
+02/08/2022 12:27:41 488 PM		Customer New value to be editted Customer Name: lugin  omark  Mobile Number: 0798654329 Subscription Type  Smart444 Amount  10.5
+02/08/2022 12:27:44 287 PM		Messege Box Are You Sure You want To edit ?
+02/08/2022 12:27:44 292 PM		User Pressed Ok
+02/08/2022 12:27:44 293 PM		Data Edditted Sucessfully
+02/08/2022 12:27:44 295 PM		Ressiting Customer Tab data		SaveCustomerButton_Click
+02/08/2022 12:27:44 297 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:27:44 301 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:27:44 302 PM		Customer Tab Data Resetted
+02/08/2022 12:27:48 074 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   lugin	CustomerLastName   omark 	CustomerMobileNumber   0798654329	ExpiryDate   01/10/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:27:48 077 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:28:32 418 PM		Subscription Tab Selected 
+02/08/2022 12:28:32 421 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:28:32 425 PM		 Subscription Tab Ressetted
+02/08/2022 12:28:36 601 PM		Customer Tab Selected 
+02/08/2022 12:28:36 604 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 12:28:36 608 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 12:28:36 616 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 12:28:36 619 PM		Customer Tab Data Resetted
+02/08/2022 12:28:48 515 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   luginp	CustomerLastName   omarkp 	CustomerMobileNumber   0798654321	ExpiryDate   06/09/2022 00:00:00	SubscriptionType   Smart444		OnCellClick
+02/08/2022 12:28:48 517 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:30:31 573 PM		Search text box value Changed  oma		OnClick
+02/08/2022 12:30:44 694 PM		Search text box value Changed  		OnClick
+02/08/2022 12:31:52 756 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   20/08/2022 00:00:00	SubscriptionType   Shaba 44		OnCellClick
+02/08/2022 12:31:52 759 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 12:32:02 412 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Omarkh	CustomerLastName   Khwaileh 	CustomerMobileNumber   0799175601	ExpiryDate   20/08/2022 00:00:00	SubscriptionType   Shaba 44		OnCellClick
+02/08/2022 12:32:02 414 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+02/08/2022 1:19:15 517 PM		User is Trying To create instance of the Application
+02/08/2022 1:19:16 105 PM		Application Started
+02/08/2022 1:19:16 440 PM		Login Form Initilized
+02/08/2022 1:19:17 620 PM		User:  admin  Logged in Sucessfully
+02/08/2022 1:19:17 656 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 1:19:17 687 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 1:19:17 689 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 1:19:17 693 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 1:19:17 694 PM		Customer Tab Data Resetted
+02/08/2022 1:19:17 696 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 1:19:21 219 PM		Close Button Pressed		OnFormClosing
+02/08/2022 1:19:22 487 PM		Are you sure you want to Exist The Application
+02/08/2022 1:19:22 489 PM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 1:19:22 491 PM		User:  admin  Is Closing The Application
+02/08/2022 1:19:22 510 PM		Application Closed
+
+
+02/08/2022 1:19:24 828 PM		User is Trying To create instance of the Application
+02/08/2022 1:19:24 832 PM		Application Started
+02/08/2022 1:19:24 906 PM		Login Form Initilized
+02/08/2022 1:19:39 765 PM		User:  admin  Logged in Sucessfully
+02/08/2022 1:19:39 788 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 1:19:39 820 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 1:19:39 822 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 1:19:39 827 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 1:19:39 828 PM		Customer Tab Data Resetted
+02/08/2022 1:19:39 830 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 1:19:58 759 PM		Close Button Pressed		OnFormClosing
+02/08/2022 1:20:04 105 PM		Are you sure you want to Exist The Application
+02/08/2022 1:20:04 107 PM		User Pressed Cancle 
+02/08/2022 2:41:25 157 PM		User is Trying To create instance of the Application
+02/08/2022 2:41:25 162 PM		Application Started
+02/08/2022 2:41:25 229 PM		Login Form Initilized
+02/08/2022 2:41:27 130 PM		User:  admin  Logged in Sucessfully
+02/08/2022 2:41:27 154 PM		Home Scrren Form Component Initilized		LogInButton_Click
+02/08/2022 2:41:27 194 PM		Ressiting Customer Tab data		HomeScreenForm_Load
+02/08/2022 2:41:27 196 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 2:41:27 203 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 2:41:27 204 PM		Customer Tab Data Resetted
+02/08/2022 2:41:27 205 PM		Home scrren Form Loaded		OnLoad
+02/08/2022 2:41:29 430 PM		Subscription Tab Selected 
+02/08/2022 2:41:29 432 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 2:41:29 434 PM		 Subscription Tab Ressetted
+02/08/2022 2:41:30 230 PM		Customer Tab Selected 
+02/08/2022 2:41:30 231 PM		Ressiting Customer Tab data		telecomTabControl_SelectedIndexChanged
+02/08/2022 2:41:30 233 PM		Reloading Customer Tab Subscription Type Combo Box Values		ResetCustomerTab
+02/08/2022 2:41:30 239 PM		Subscription Type Combo Box Values Reloaded Successfully
+02/08/2022 2:41:30 240 PM		Customer Tab Data Resetted
+02/08/2022 2:47:16 550 PM		Subscription Tab Selected 
+02/08/2022 2:47:16 554 PM		Resetting Subscription Tab		telecomTabControl_SelectedIndexChanged
+02/08/2022 2:47:16 558 PM		 Subscription Tab Ressetted
+02/08/2022 3:06:41 623 PM		Close Button Pressed		OnFormClosing
+02/08/2022 3:06:42 650 PM		Are you sure you want to Exist The Application
+02/08/2022 3:06:42 652 PM		User Pressed Yes  Application Home Screen Closing
+02/08/2022 3:06:42 654 PM		User:  admin  Is Closing The Application
+02/08/2022 3:06:42 683 PM		Application Closed
+
+

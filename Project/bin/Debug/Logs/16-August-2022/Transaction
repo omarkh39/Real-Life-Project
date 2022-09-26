@@ -1,0 +1,361 @@
+ 9:48:25 885 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 9:48:26 512 AM		Program.cs		Main			Application Started
+ 9:48:26 568 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 9:48:27 989 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 9:48:29 532 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 9:48:29 571 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:48:29 574 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:48:29 579 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:48:29 581 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:48:29 584 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 9:48:36 768 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    mo		
+ 9:50:53 069 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 9:50:53 073 AM		Program.cs		Main			Application Started
+ 9:50:53 156 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 9:50:53 969 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 9:50:54 705 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 9:50:54 743 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:50:54 745 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:50:54 747 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:50:54 749 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:50:54 751 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 9:50:59 987 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    07914		
+ 9:55:10 861 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 9:55:10 864 AM		Program.cs		Main			Application Started
+ 9:55:10 918 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 9:55:11 986 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 9:55:12 699 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 9:55:12 727 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:55:12 728 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:55:12 731 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:55:12 733 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:55:12 734 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 9:55:16 062 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    mo		
+ 9:59:02 957 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 9:59:02 961 AM		Program.cs		Main			Application Started
+ 9:59:03 018 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 9:59:03 932 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 9:59:04 609 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 9:59:04 637 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:59:04 640 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:59:04 642 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:59:04 644 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:59:04 646 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 9:59:08 184 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    mo		
+ 9:59:12 711 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    079		
+ 9:59:21 539 AM		HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged			Subscription Tab Selected 
+ 9:59:21 541 AM		HomeScreenForm.cs		ResetSubscriptionTab			Resetting Subscription Tab		
+ 9:59:21 543 AM		HomeScreenForm.cs		ResetSubscriptionTab			Subscription Tab Ressetted
+ 9:59:22 724 AM		HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged			Customer Tab Selected 
+ 9:59:22 726 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:59:22 727 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:59:22 729 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:59:22 731 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:59:25 055 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:25 064 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:25 695 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:25 699 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:26 574 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:26 578 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:27 943 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:27 947 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:37 720 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10		
+ 9:59:37 723 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 9:59:37 724 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    ali	Customer Last Name:    ibrahim	Customer Monile Phone:    0796352418	Amount:    10	 Expiry Date:    21/09/2022 00:00:00
+ 9:59:37 726 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10
+ 9:59:39 091 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 9:59:40 178 AM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 9:59:40 180 AM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 9:59:40 181 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 9:59:40 183 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:59:40 185 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 9:59:40 187 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 9:59:47 031 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    ali		
+ 9:59:51 406 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:51 412 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:53 895 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    		
+ 9:59:54 935 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:54 939 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:55 808 AM		HomeScreenForm.cs		SearchButton_Click			Search text box value Changed:    		
+ 9:59:56 622 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:56 626 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:57 006 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:57 011 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:57 311 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 9:59:57 316 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:59:57 961 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    Oamr  kh  Mobile Number:    0799175601 Subscription Type:    sss Amount:    0		
+ 9:59:57 963 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 9:59:57 964 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    Oamr	Customer Last Name:    kh	Customer Monile Phone:    0799175601	Amount:    0	 Expiry Date:    11/09/2022 00:00:00
+ 9:59:59 219 AM		HomeScreenForm.cs		CustomerTabValidity			Unvalid Lastt Name
+ 9:59:59 751 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:00:00 755 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:00:00 756 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:00:00 758 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:00:00 778 AM		Program.cs		Main			Application Closed
+
+
+ 10:23:42 968 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:23:42 971 AM		Program.cs		Main			Application Started
+ 10:23:43 030 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:23:43 921 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:23:44 658 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:23:44 686 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:23:44 688 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:23:44 690 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:23:44 692 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:23:44 694 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:23:46 780 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:46 789 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:47 436 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:47 440 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:48 411 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:48 416 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:49 579 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:49 584 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:52 446 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10		
+ 10:23:52 448 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 10:23:52 450 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    ali	Customer Last Name:    ibrahim	Customer Monile Phone:    0796352418	Amount:    10	 Expiry Date:    21/09/2022 00:00:00
+ 10:23:52 451 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10
+ 10:23:53 385 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 10:23:54 318 AM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 10:23:54 320 AM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 10:23:54 321 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:23:54 324 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:23:54 326 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:23:54 327 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:23:55 668 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:55 673 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:56 156 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:56 160 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:56 820 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:56 824 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:23:57 508 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:23:57 512 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:03 421 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10		
+ 10:24:03 422 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 10:24:03 424 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    ali	Customer Last Name:    ibrahim	Customer Monile Phone:    0796352418	Amount:    10	 Expiry Date:    21/09/2022 00:00:00
+ 10:24:03 426 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    10
+ 10:24:04 720 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 10:24:05 600 AM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 10:24:05 601 AM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 10:24:05 603 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:24:05 605 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:24:05 606 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:24:05 608 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:24:07 308 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:07 313 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:08 076 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:08 080 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:09 443 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:09 448 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:09 955 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:09 960 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:11 918 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:24:12 944 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:24:12 945 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:24:12 947 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:24:12 959 AM		Program.cs		Main			Application Closed
+
+
+ 10:24:43 936 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:24:43 939 AM		Program.cs		Main			Application Started
+ 10:24:43 998 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:24:45 074 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:24:45 755 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:24:45 784 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:24:45 787 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:24:45 791 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:24:45 793 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:24:45 794 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:24:47 374 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:47 382 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:48 037 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:48 042 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:49 269 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:49 273 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:49 973 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:49 977 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:50 405 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:50 409 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:51 180 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:51 185 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:52 688 AM		HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged			Subscription Tab Selected 
+ 10:24:52 690 AM		HomeScreenForm.cs		ResetSubscriptionTab			Resetting Subscription Tab		
+ 10:24:52 692 AM		HomeScreenForm.cs		ResetSubscriptionTab			Subscription Tab Ressetted
+ 10:24:54 181 AM		HomeScreenForm.cs		SubscriptiondataGridView_Click			Subscription Data Grid View Clicked		
+ 10:24:54 182 AM		HomeScreenForm.cs		SubscriptiondataGridView_Click			Subscription DatagridView Row Selected
+ 10:24:54 184 AM		HomeScreenForm.cs		SubscriptiondataGridView_Click			Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    sss 	SubscriptionCode:    1	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 10:24:56 534 AM		HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged			Customer Tab Selected 
+ 10:24:56 539 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:24:56 545 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:24:56 549 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:24:56 551 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:24:57 653 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:57 659 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:24:58 581 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:24:58 585 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:03 567 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    Mohammad  Khal  Mobile Number:    0791452369 Subscription Type:    sss Amount:    0		
+ 10:25:03 569 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 10:25:03 571 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    Mohammad	Customer Last Name:    Khal	Customer Monile Phone:    0791452369	Amount:    0	 Expiry Date:    09/10/2022 00:00:00
+ 10:25:03 573 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    Mohammad  Khal  Mobile Number:    0791452369 Subscription Type:    sss Amount:    0
+ 10:25:04 672 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 10:25:05 617 AM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 10:25:05 619 AM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 10:25:05 620 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:25:05 622 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:25:05 624 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:25:05 626 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:25:07 180 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:07 185 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:07 661 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Khal 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:07 665 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:08 101 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:08 106 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:11 997 AM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    1		
+ 10:25:11 999 AM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 10:25:12 001 AM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    ali	Customer Last Name:    ibrahim	Customer Monile Phone:    0796352418	Amount:    1	 Expiry Date:    21/09/2022 00:00:00
+ 10:25:12 002 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    sss Amount:    1
+ 10:25:12 905 AM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 10:25:14 561 AM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 10:25:14 563 AM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 10:25:14 564 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:25:14 566 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:25:14 567 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:25:14 569 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:25:16 013 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Khal 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:16 018 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:16 388 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:16 392 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:16 949 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:16 953 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:17 268 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:17 273 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:17 581 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:17 585 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:18 124 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:18 129 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:25:18 485 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:25:18 489 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:27:05 806 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:27:05 812 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:27:07 263 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:27:08 219 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:27:08 220 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:27:08 222 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:27:08 240 AM		Program.cs		Main			Application Closed
+
+
+ 10:28:32 968 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:28:32 971 AM		Program.cs		Main			Application Started
+ 10:28:33 032 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:28:35 748 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:28:35 765 AM		Program.cs		Main			Application Closed
+
+
+ 10:29:44 498 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:29:44 501 AM		Program.cs		Main			Application Started
+ 10:29:44 555 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:29:45 477 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:29:46 159 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:29:46 194 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:29:46 197 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:29:46 201 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:29:46 203 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:29:46 209 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:29:47 785 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:29:47 794 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:29:48 448 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:29:48 452 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:29:50 729 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:29:52 364 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:29:52 366 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:29:52 368 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:29:52 378 AM		Program.cs		Main			Application Closed
+
+
+ 10:34:49 693 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:34:49 695 AM		Program.cs		Main			Application Started
+ 10:34:49 760 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:34:50 703 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:34:51 422 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:34:51 453 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:34:51 455 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:34:51 457 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:34:51 459 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:34:51 460 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:34:52 635 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:34:52 642 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:34:53 730 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:34:53 735 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:34:55 009 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Khal 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:34:55 014 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:35:01 307 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:35:02 238 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:35:02 239 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:35:02 241 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:35:02 258 AM		Program.cs		Main			Application Closed
+
+
+ 10:35:09 762 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:35:09 766 AM		Program.cs		Main			Application Started
+ 10:35:09 810 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:35:11 033 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:36:12 824 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:36:12 856 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:36:12 859 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:36:12 862 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:36:12 863 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:36:12 864 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:36:16 795 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:36:16 803 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:36:18 540 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:36:19 910 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:36:19 912 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:36:19 914 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:36:19 928 AM		Program.cs		Main			Application Closed
+
+
+ 10:38:39 089 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:38:39 093 AM		Program.cs		Main			Application Started
+ 10:38:39 144 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:38:40 106 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:38:40 814 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:38:40 850 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:38:40 853 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:38:40 857 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:38:40 859 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:38:40 861 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:38:42 299 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:38:42 308 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:38:43 987 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Khal 	CustomerMobileNumber:    0791452369	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    sss		
+ 10:38:43 992 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:38:44 466 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:38:44 471 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:38:45 380 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:38:46 455 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:38:46 456 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:38:46 458 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:38:46 474 AM		Program.cs		Main			Application Closed
+
+
+ 10:58:05 339 AM		Program.cs		Main			User is Trying To create instance of the Application
+ 10:58:05 343 AM		Program.cs		Main			Application Started
+ 10:58:05 402 AM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 10:58:06 366 AM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 10:58:07 052 AM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 10:58:07 096 AM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 10:58:07 099 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:58:07 101 AM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 10:58:07 103 AM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 10:58:07 104 AM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 10:58:08 361 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    ibrahim 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:58:08 370 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:58:09 904 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    sss		
+ 10:58:09 909 AM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:58:11 514 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 10:58:12 397 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 10:58:12 399 AM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 10:58:12 400 AM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 10:58:12 414 AM		Program.cs		Main			Application Closed
+
+

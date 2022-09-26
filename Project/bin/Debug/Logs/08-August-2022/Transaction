@@ -1,0 +1,473 @@
+ 1:03:55 818 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		MainUser is Trying To create instance of the Application
+ 1:03:55 832 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		MainApplication Started
+ 1:03:55 904 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctorLogin Form Initilized
+ 1:04:38 236 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		MainUser is Trying To create instance of the Application
+ 1:04:38 240 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		MainApplication Started
+ 1:04:38 340 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctorLogin Form Initilized
+ 1:04:41 050 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_ClickUser:  admin  Logged in Sucessfully
+ 1:04:41 724 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctorHome Scrren Form Component Initilized		
+ 1:04:41 752 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabRessiting Customer Tab data		
+ 1:04:41 754 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxReloading Customer Tab Subscription Type Combo Box Values		
+ 1:04:41 759 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxSubscription Type Combo Box Values Reloaded Successfully
+ 1:04:41 761 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabCustomer Tab Data Resetted
+ 1:04:41 762 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_LoadHome scrren Form Loaded		
+ 1:04:43 318 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Tab DatagridView Row Selected	 CustomerFirstName:    Lugin	CustomerLastName:    Ahmad 	CustomerMobileNumber:    0798456133	ExpiryDate:    23/09/2022 00:00:00	SubscriptionType:    Smart 4		
+ 1:04:43 322 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Fields Filled Sucessfully from Data Grid View Data
+ 1:04:48 348 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Tab DatagridView Row Selected	 CustomerFirstName:    Omar	CustomerLastName:    Khwaileh 	CustomerMobileNumber:    0799175601	ExpiryDate:    26/08/2022 00:00:00	SubscriptionType:    Smart 5		
+ 1:04:48 351 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Fields Filled Sucessfully from Data Grid View Data
+ 1:04:50 604 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Tab DatagridView Row Selected	 CustomerFirstName:    omar	CustomerLastName:    asdsad 	CustomerMobileNumber:    0791456123	ExpiryDate:    06/10/2022 00:00:00	SubscriptionType:    Smart 4		
+ 1:04:50 608 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClickCustomer Fields Filled Sucessfully from Data Grid View Data
+ 1:04:51 654 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		DeleteCustomerButton_ClickCustomer Tab Delete Button Pressed		
+ 1:04:51 655 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		DeleteCustomerButton_ClickMessage Box Are You Sure You want to delte Customer:    omar	asdsad	Customer
+ 1:04:52 443 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		DeleteCustomerButton_ClickUser Pressed Ok
+ 1:04:52 466 PM	C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs		DeleteCustomerCustomer Deleted Sucessfully
+ 1:04:53 889 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabRessiting Customer Tab data		
+ 1:04:53 892 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxReloading Customer Tab Subscription Type Combo Box Values		
+ 1:04:53 897 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxSubscription Type Combo Box Values Reloaded Successfully
+ 1:04:53 899 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabCustomer Tab Data Resetted
+ 1:05:22 823 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Clicksave button preesed 	 Values   Customer Name:    Adel   Ibrahim  Mobile Number:    0796541238 Subscription Type:    Omars Amount:    10		
+ 1:05:22 826 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidityChecking Customer tab Data Validity		
+ 1:05:22 828 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidityCustomer First Name:    Adel 	Customer Last Name:    Ibrahim	Customer Monile Phone:    0796541238	Amount:    10	 Expiry Date:    07/10/2022 13:04:53
+ 1:05:25 073 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidityUnvalid First Name
+ 1:05:28 205 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Clicksave button preesed 	 Values   Customer Name:    Adel  Ibrahim  Mobile Number:    0796541238 Subscription Type:    Omars Amount:    10		
+ 1:05:28 207 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidityChecking Customer tab Data Validity		
+ 1:05:28 208 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidityCustomer First Name:    Adel	Customer Last Name:    Ibrahim	Customer Monile Phone:    0796541238	Amount:    10	 Expiry Date:    07/10/2022 13:04:53
+ 1:05:34 161 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_ClickAre You sure about adding Customer :    Customer First Name:    Adel	Customer Last Name:    Ibrahim	Customer Monile Phone:    0796541238	Amount:    10	 Expiry Date:    07/10/2022 13:04:53
+ 1:05:34 163 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_ClickUser Pressed Ok
+ 1:05:35 377 PM	C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs		CreateCustomerCustomer Added Sucessfully To Xml
+ 1:05:35 378 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabRessiting Customer Tab data		
+ 1:05:35 381 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxReloading Customer Tab Subscription Type Combo Box Values		
+ 1:05:35 387 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBoxSubscription Type Combo Box Values Reloaded Successfully
+ 1:05:35 389 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTabCustomer Tab Data Resetted
+ 1:05:37 806 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosingClose Button Pressed		
+ 1:05:38 601 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosingAre you sure you want to Exist The Application
+ 1:05:38 603 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosingUser Pressed Yes  Application Home Screen Closing
+ 1:05:38 605 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosingUser:  admin  Is Closing The Application
+ 1:05:38 619 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		MainApplication Closed
+
+
+ 1:09:27 566 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 1:09:27 570 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 1:09:27 672 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 1:09:28 691 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 1:09:29 419 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 1:09:29 465 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 1:09:29 468 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 1:09:29 476 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 1:09:29 477 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 1:09:29 479 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 1:09:30 586 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 1:09:31 414 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 1:09:31 415 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 1:09:31 417 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 1:09:31 434 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Closed
+
+
+ 1:10:02 040 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main		User is Trying To create instance of the Application
+ 1:10:02 044 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main		Application Started
+ 1:10:02 114 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor		Login Form Initilized
+ 1:10:03 055 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click		User:  admin  Logged in Sucessfully
+ 1:10:03 795 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor		Home Scrren Form Component Initilized		
+ 1:10:03 823 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab		Ressiting Customer Tab data		
+ 1:10:03 825 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox		Reloading Customer Tab Subscription Type Combo Box Values		
+ 1:10:03 831 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox		Subscription Type Combo Box Values Reloaded Successfully
+ 1:10:03 834 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab		Customer Tab Data Resetted
+ 1:10:03 836 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load		Home scrren Form Loaded		
+ 1:10:04 923 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing		Close Button Pressed		
+ 1:10:05 800 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing		Are you sure you want to Exist The Application
+ 1:10:05 802 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing		User Pressed Yes  Application Home Screen Closing
+ 1:10:05 804 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing		User:  admin  Is Closing The Application
+ 1:10:05 817 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main		Application Closed
+
+
+ 2:03:58 763 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 2:03:58 766 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 2:03:58 812 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 2:03:59 677 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 2:04:00 338 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 2:04:00 390 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 2:04:00 392 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 2:04:00 402 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 2:04:00 405 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 2:04:00 408 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 2:04:04 072 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Adel	CustomerLastName:    Ibrahim 	CustomerMobileNumber:    0796541238	ExpiryDate:    07/10/2022 00:00:00	SubscriptionType:    Omars		
+ 2:04:04 075 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 2:04:07 401 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 2:04:07 403 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 2:04:07 407 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 2:04:33 097 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 2:04:33 099 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    Shabab+	Subscription Code:    4	Fees:    5	PackgeType:    Omars
+ 2:04:33 101 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 2:04:33 103 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 2:04:33 105 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName   Shabab+	Subscription Code:    4	Fees:    5	PackgeType:    PrePaid
+ 2:04:34 683 PM	C:\Users\OMAR.K\Desktop\Project\Project\SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription added Sucessfully
+ 2:04:34 684 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 2:04:34 686 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 2:04:35 583 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 2:04:35 588 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 2:04:35 595 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 2:04:35 607 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 2:04:35 611 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 2:04:40 279 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Adel	CustomerLastName:    Ibrahim 	CustomerMobileNumber:    0796541238	ExpiryDate:    07/10/2022 00:00:00	SubscriptionType:    Omars		
+ 2:04:40 282 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 2:04:43 953 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Adel  Ibrahim  Mobile Number:    0796541238 Subscription Type:    Shabab+ Amount:    10		
+ 2:04:43 955 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 2:04:43 957 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Adel	Customer Last Name:    Ibrahim	Customer Monile Phone:    0796541238	Amount:    10	 Expiry Date:    07/10/2022 00:00:00
+ 2:04:43 959 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Adel  Ibrahim  Mobile Number:    0796541238 Subscription Type:    Shabab+ Amount:    10
+ 2:04:44 940 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 2:04:46 835 PM	C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 2:04:46 837 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 2:04:46 839 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 2:04:46 842 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 2:04:46 847 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 2:04:46 849 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 2:04:57 128 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 2:04:58 021 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 2:04:58 023 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 2:04:58 025 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 2:04:58 047 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Closed
+
+
+ 2:13:52 268 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 2:13:52 272 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 2:13:52 321 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 2:13:53 392 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 2:13:54 135 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 2:13:54 163 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 2:13:54 166 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 2:13:54 171 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 2:13:54 172 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 2:13:54 174 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 2:13:55 927 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 2:13:56 917 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 2:13:56 919 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 2:13:56 921 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 2:13:56 936 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Closed
+
+
+ 4:56:19 481 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 4:56:19 485 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 4:56:19 541 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 4:56:20 512 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 4:56:21 326 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 4:56:21 356 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:56:21 358 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:56:21 364 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:56:21 366 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:56:21 368 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 4:56:39 275 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Omar	CustomerLastName:    Khwaileh 	CustomerMobileNumber:    0799175601	ExpiryDate:    26/08/2022 00:00:00	SubscriptionType:    Smart 5		
+ 4:56:39 278 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:57:03 085 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10		
+ 4:57:03 089 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:57:03 091 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Omar	Customer Last Name:    Khwaileh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    26/08/2022 00:00:00
+ 4:57:03 093 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10
+ 4:57:23 867 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Omar	CustomerLastName:    Khwaileh 	CustomerMobileNumber:    0799175601	ExpiryDate:    26/08/2022 00:00:00	SubscriptionType:    Smart 5		
+ 4:57:23 869 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:57:24 931 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Lugin	CustomerLastName:    Ahmad 	CustomerMobileNumber:    0798456133	ExpiryDate:    23/09/2022 00:00:00	SubscriptionType:    Smart 4		
+ 4:57:24 934 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:57:29 428 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Lugin  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18		
+ 4:57:29 430 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:57:29 432 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Lugin	Customer Last Name:    Ahmad	Customer Monile Phone:    0798456133	Amount:    18	 Expiry Date:    23/09/2022 00:00:00
+ 4:57:29 434 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Lugin  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18
+ 4:57:33 248 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 4:57:34 912 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 4:57:34 914 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 4:57:34 916 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:57:34 918 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:57:34 923 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:57:34 925 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:57:40 244 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Omar	CustomerLastName:    Khwaileh 	CustomerMobileNumber:    0799175601	ExpiryDate:    26/08/2022 00:00:00	SubscriptionType:    Smart 5		
+ 4:57:40 247 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:57:42 972 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10		
+ 4:57:42 974 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:57:42 976 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Omar	Customer Last Name:    Khwaileh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    26/08/2022 00:00:00
+ 4:57:42 977 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10
+ 5:00:05 504 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Omarg  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10		
+ 5:00:05 506 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:00:05 508 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Omarg	Customer Last Name:    Khwaileh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    26/08/2022 00:00:00
+ 5:00:05 509 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Omarg  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10
+ 5:00:10 311 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:00:10 316 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:00:10 367 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:00:11 325 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:00:12 051 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:00:12 089 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:00:12 095 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:00:12 107 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:00:12 110 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:00:12 115 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:00:15 799 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Lugin	CustomerLastName:    Ahmad 	CustomerMobileNumber:    0798456133	ExpiryDate:    23/09/2022 00:00:00	SubscriptionType:    Smart 4		
+ 5:00:15 803 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:00:17 745 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Lugin  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18		
+ 5:00:17 748 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:00:17 749 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Lugin	Customer Last Name:    Ahmad	Customer Monile Phone:    0798456133	Amount:    18	 Expiry Date:    23/09/2022 00:00:00
+ 5:00:17 751 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Lugin  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18
+ 5:00:19 051 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 5:00:20 204 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 5:00:20 205 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 5:00:20 207 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:00:20 210 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:00:20 217 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:00:20 220 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:00:43 795 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:00:43 799 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:00:43 846 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:00:45 061 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:00:45 849 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:00:45 883 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:00:45 886 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:00:45 892 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:00:45 894 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:00:45 896 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:00:50 271 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Lugin	CustomerLastName:    Ahmad 	CustomerMobileNumber:    0798456133	ExpiryDate:    23/09/2022 00:00:00	SubscriptionType:    Smart 4		
+ 5:00:50 276 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:00:56 642 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Lugingg  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18		
+ 5:00:56 645 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:00:56 646 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Lugingg	Customer Last Name:    Ahmad	Customer Monile Phone:    0798456133	Amount:    18	 Expiry Date:    23/09/2022 00:00:00
+ 5:00:56 648 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Lugingg  Ahmad  Mobile Number:    0798456133 Subscription Type:    Smart 4 Amount:    18
+ 5:00:57 764 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 5:00:59 300 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 5:00:59 302 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 5:00:59 304 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:00:59 306 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:00:59 311 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:00:59 312 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:01:52 505 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ssss  dddddd  Mobile Number:    0791234567 Subscription Type:    Smart 5 Amount:    4		
+ 5:01:52 507 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:01:52 509 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ssss	Customer Last Name:    dddddd	Customer Monile Phone:    0791234567	Amount:    4	 Expiry Date:    07/10/2022 17:00:59
+ 5:01:53 644 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Are You sure about adding Customer :    Customer First Name:    ssss	Customer Last Name:    dddddd	Customer Monile Phone:    0791234567	Amount:    4	 Expiry Date:    07/10/2022 17:00:59
+ 5:01:53 646 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 5:01:56 685 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		CreateCustomer	Customer Added Sucessfully To database
+ 5:01:56 687 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:01:56 690 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:01:56 696 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:01:56 697 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:19:32 038 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:        Mobile Number:     Subscription Type:     Amount:    		
+ 5:19:32 040 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:19:32 041 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    	Customer Last Name:    	Customer Monile Phone:    	Amount:    	 Expiry Date:    07/10/2022 17:01:56
+ 5:19:33 248 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Unvalid Amount
+ 5:19:34 580 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Omar	CustomerLastName:    Khwaileh 	CustomerMobileNumber:    0799175601	ExpiryDate:    26/08/2022 00:00:00	SubscriptionType:    Smart 5		
+ 5:19:34 583 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:19:37 350 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10		
+ 5:19:37 351 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:19:37 353 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Omar	Customer Last Name:    Khwaileh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    26/08/2022 00:00:00
+ 5:19:37 355 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Omar  Khwaileh  Mobile Number:    0799175601 Subscription Type:    Smart 5 Amount:    10
+ 5:22:13 186 PM			telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:22:13 188 PM			ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:22:13 191 PM			ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:26:23 669 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:26:23 673 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:26:23 750 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:26:24 854 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:26:25 639 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:26:25 672 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:26:25 674 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:26:25 680 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:26:25 681 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:26:25 683 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:26:27 082 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:26:27 084 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:26:27 086 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:26:30 680 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:26:30 682 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:26:30 683 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 4 	SubscriptionCode:    2	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 5:27:27 514 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:27:27 516 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 5SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:27:27 518 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:27:27 520 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:27:28 636 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Name Already taken
+ 5:28:34 595 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:28:34 600 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:28:34 668 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:28:36 093 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:28:36 789 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:28:36 817 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:28:36 819 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:28:36 824 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:28:36 826 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:28:36 826 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:28:38 793 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:28:38 795 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:28:38 799 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:28:40 001 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:28:40 336 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:28:40 337 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:28:40 339 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 4 	SubscriptionCode:    2	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 5:28:47 018 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:28:47 020 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:28:47 022 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:28:47 024 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:28:49 468 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	2	 have already registered users 
+ 5:28:50 899 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:28:50 900 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed cancel
+ 5:28:53 352 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:28:53 354 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:28:53 356 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:28:53 357 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:28:53 981 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	2	 have already registered users 
+ 5:28:56 901 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:28:56 903 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed cancel
+ 5:29:08 457 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:29:08 459 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:29:08 461 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:29:08 463 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:29:09 622 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	2	 have already registered users 
+ 5:29:10 494 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:29:10 496 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed Ok
+ 5:29:36 466 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:29:36 471 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:29:36 520 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:29:37 734 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:29:38 499 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:29:38 536 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:29:38 538 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:29:38 544 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:29:38 546 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:29:38 548 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:29:47 879 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:29:47 881 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:29:47 884 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:29:49 921 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:29:49 923 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:29:49 924 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Omars 	SubscriptionCode:    3	 SubscriptionFee:    7	SubscriptionType:    PostPaid
+ 5:29:54 539 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:29:54 540 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    OmarsSubscriptionCode:    3SubscriptionFee:    7SubscriptionType:    PrePaid
+ 5:29:54 543 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:29:54 544 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:29:57 357 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    OmarsSubscriptionCode:    3SubscriptionFee:    7SubscriptionType:    PrePaid
+ 5:29:57 358 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed Ok
+ 5:29:58 701 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Subscriptions\SubscriptionDatabaseHandler.cs		EditSubscription	Subscription Editted Sucessfully
+ 5:29:58 703 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:29:58 706 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:30:13 040 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:30:13 042 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:30:13 044 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 4 	SubscriptionCode:    2	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 5:30:42 561 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:30:42 563 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 5SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:30:42 565 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:30:42 567 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:30:45 013 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Name Already taken
+ 5:30:46 299 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:30:46 300 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 5SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:30:46 302 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:30:46 303 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:30:50 047 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Name Already taken
+ 5:30:53 505 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:30:53 507 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:30:53 508 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:30:53 510 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:30:59 500 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	2	 have already registered users 
+ 5:31:02 549 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 4SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:31:02 551 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed Ok
+ 5:31:18 343 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:31:18 347 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:31:18 395 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:31:25 430 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:31:26 042 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:31:26 071 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:31:26 073 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:31:26 078 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:31:26 080 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:31:26 081 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:32:43 001 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:32:43 004 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:32:43 057 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:32:44 111 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:32:44 884 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:32:44 913 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:32:44 915 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:32:44 925 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:32:44 927 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:32:44 929 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:32:48 042 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Adel	CustomerLastName:    Ibrahim 	CustomerMobileNumber:    0796541238	ExpiryDate:    07/10/2022 00:00:00	SubscriptionType:    Shabab+		
+ 5:32:48 046 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:32:51 502 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:32:51 504 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:32:51 507 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:32:53 641 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:32:53 643 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:32:53 645 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 4 	SubscriptionCode:    2	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 5:32:56 281 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:32:56 283 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:32:56 285 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Shabab+ 	SubscriptionCode:    4	 SubscriptionFee:    5	SubscriptionType:    PrePaid
+ 5:33:27 866 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:33:27 867 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:33:27 869 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 4 	SubscriptionCode:    2	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 5:33:54 745 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:33:54 747 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 6SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:33:54 750 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:33:54 751 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:34:08 206 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	2	 have already registered users 
+ 5:34:15 351 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 6SubscriptionCode:    2SubscriptionFee:    10SubscriptionType:    PostPaid
+ 5:34:15 352 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed Ok
+ 5:36:00 709 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Subscriptions\SubscriptionDatabaseHandler.cs		EditSubscription	Subscription Editted Sucessfully
+ 5:39:31 311 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 5:39:31 315 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 5:39:31 366 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 5:39:32 424 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 5:39:33 224 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 5:39:33 253 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:39:33 255 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:39:33 261 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:39:33 262 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:39:33 264 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 5:39:39 680 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 5:39:39 682 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:39:39 685 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:39:41 027 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:39:41 891 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 5:39:41 893 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 5:39:41 895 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Smart 5 	SubscriptionCode:    1	 SubscriptionFee:    17	SubscriptionType:    PostPaid
+ 5:39:58 522 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:39:58 524 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 6SubscriptionCode:    1SubscriptionFee:    17SubscriptionType:    PostPaid
+ 5:39:58 526 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:39:58 528 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:40:02 709 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Name Already taken
+ 5:40:13 219 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Subscription Tab Edit Button Pressed		
+ 5:40:13 498 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Values   SubscriptionName:    Smart 7SubscriptionCode:    1SubscriptionFee:    17SubscriptionType:    PostPaid
+ 5:40:14 880 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 5:40:14 882 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 5:40:22 047 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	1	 have already registered users 
+ 5:40:29 176 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	Are You Sure to edit Subscription data to SubscriptionName:    Smart 7SubscriptionCode:    1SubscriptionFee:    17SubscriptionType:    PostPaid
+ 5:40:31 984 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		EditSubscriptionButton_Click	User Pressed Ok
+ 5:42:00 189 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Subscriptions\SubscriptionDatabaseHandler.cs		EditSubscription	Subscription Editted Sucessfully
+ 5:43:35 178 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 5:43:35 231 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 5:43:43 606 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 5:43:43 611 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:43:43 615 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:43:43 629 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:43:43 632 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 5:53:55 943 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Omark	CustomerLastName:    khal 	CustomerMobileNumber:    0796543218	ExpiryDate:    18/11/2022 00:00:00	SubscriptionType:    Smart 7		
+ 5:53:55 947 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:54:08 271 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Adel	CustomerLastName:    Ibrahim 	CustomerMobileNumber:    0796541238	ExpiryDate:    07/10/2022 00:00:00	SubscriptionType:    Shabab+		
+ 5:54:08 275 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 5:54:13 657 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Adelaaa  Ibrahim  Mobile Number:    0796541238 Subscription Type:    Shabab+ Amount:    10		
+ 5:54:13 660 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 5:54:13 662 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Adelaaa	Customer Last Name:    Ibrahim	Customer Monile Phone:    0796541238	Amount:    10	 Expiry Date:    07/10/2022 00:00:00
+ 5:54:13 664 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Adelaaa  Ibrahim  Mobile Number:    0796541238 Subscription Type:    Shabab+ Amount:    10
+ 5:54:14 932 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 5:54:16 420 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 5:54:16 422 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 5:54:16 423 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 5:54:16 425 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 5:54:16 432 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 5:54:16 433 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 6:05:44 498 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 6:05:44 500 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 6:05:44 501 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 6:05:46 822 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 6:05:48 374 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 6:05:48 376 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 6:05:48 377 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    4g 	SubscriptionCode:    #3	 SubscriptionFee:    10	SubscriptionType:    PostPaid
+ 6:05:52 503 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 6:05:52 508 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 6:05:52 512 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 6:05:52 524 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 6:05:52 527 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 6:05:57 746 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 6:05:57 750 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 6:05:57 755 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 6:06:00 254 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 6:06:00 256 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 6:06:00 258 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    Shabab+ 	SubscriptionCode:    4	 SubscriptionFee:    5	SubscriptionType:    PrePaid

@@ -1,0 +1,6 @@
+02/08/2022 12:06:43 083 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.HomeScreenForm.EditSubscriptionButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 293
+
+02/08/2022 12:07:50 048 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.HomeScreenForm.EditSubscriptionButton_Click(Object sender, EventArgs e) in C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs:line 293
+
+02/08/2022 12:13:08 921 PM		Excpetion Message 	Getting the InheritedStyle property of a shared row is not a valid operation.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRow.get_InheritedStyle()
+

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <CustomerFirstName>Omar</CustomerFirstName>
+    <CustomerLastName>Khwaileh</CustomerLastName>
+    <MobileNumber>0799175601</MobileNumber>
+    <ExpiryDate>11/08/2022</ExpiryDate>
+    <Amount>10000</Amount>
+    <SubscriptionType>Smart4</SubscriptionType>
+  </Customer>
+  <Customer>
+    <CustomerFirstName>lugin</CustomerFirstName>
+    <CustomerLastName>omark</CustomerLastName>
+    <MobileNumber>0798654321</MobileNumber>
+    <ExpiryDate>06/09/2022</ExpiryDate>
+    <Amount>10.5</Amount>
+    <SubscriptionType>Smart4</SubscriptionType>
+  </Customer>
+  <Customer>
+    <CustomerFirstName>Ahmad</CustomerFirstName>
+    <CustomerLastName>Ibrahim</CustomerLastName>
+    <MobileNumber>0794568123</MobileNumber>
+    <ExpiryDate>06/07/2022</ExpiryDate>
+    <Amount>65</Amount>
+    <SubscriptionType>5g+</SubscriptionType>
+  </Customer>
+  <Customer>
+    <CustomerFirstName>Adel</CustomerFirstName>
+    <CustomerLastName>sdasd</CustomerLastName>
+    <MobileNumber>0794569871</MobileNumber>
+    <ExpiryDate>15/05/2022</ExpiryDate>
+    <Amount>10</Amount>
+    <SubscriptionType>4g</SubscriptionType>
+  </Customer>
+  <Customer>
+    <CustomerFirstName>Ibrahim</CustomerFirstName>
+    <CustomerLastName>Fagih</CustomerLastName>
+    <MobileNumber>0794561238</MobileNumber>
+    <ExpiryDate>06/12/2022</ExpiryDate>
+    <Amount>4</Amount>
+    <SubscriptionType>Smart 5</SubscriptionType>
+  </Customer>
+  <Customer>
+    <CustomerFirstName>fds</CustomerFirstName>
+    <CustomerLastName>fds</CustomerLastName>
+    <MobileNumber>0796546321</MobileNumber>
+    <ExpiryDate>19/09/2022</ExpiryDate>
+    <Amount>5</Amount>
+    <SubscriptionType>Shabab</SubscriptionType>
+  </Customer>
+</Customers>

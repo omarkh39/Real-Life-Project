@@ -1,0 +1,47 @@
+31/07/2022 9:09:41 428 AM		Excpetion Message 	No row can be added to a DataGridView control that does not have columns. Columns must be added first.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+
+31/07/2022 9:10:53 430 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:11:51 685 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:11:54 035 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:55:08 687 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:55:11 076 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:55:13 444 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:55:54 028 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:56:05 478 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 9:56:30 701 AM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 11:50:23 954 AM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.SubscriptionXmlDocument.XmlToSubscription()
+
+31/07/2022 2:48:00 457 PM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 2:58:55 447 PM		Excpetion Message 	ColumnCount property cannot be set on a data-bound DataGridView control.	 Exception stack Trace   at System.Windows.Forms.DataGridView.set_ColumnCount(Int32 value)
+
+31/07/2022 3:22:24 695 PM		Excpetion Message 	Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index	 Exception stack Trace   at System.Collections.ArrayList.get_Item(Int32 index)
+
+31/07/2022 3:23:01 890 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.HomeScreenForm.DeleteCustomerButton_Click(Object sender, EventArgs e)
+
+31/07/2022 3:44:24 523 PM		Excpetion Message 	Rows cannot be programmatically removed unless the DataGridView is data-bound to an IBindingList that supports change notification and allows deletion.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.RemoveAt(Int32 index)
+
+31/07/2022 3:53:53 409 PM		Excpetion Message 	Rows cannot be programmatically removed unless the DataGridView is data-bound to an IBindingList that supports change notification and allows deletion.	 Exception stack Trace   at System.Windows.Forms.DataGridViewRowCollection.RemoveAt(Int32 index)
+
+31/07/2022 3:57:12 847 PM		Excpetion Message 	ColumnCount property cannot be set on a data-bound DataGridView control.	 Exception stack Trace   at System.Windows.Forms.DataGridView.set_ColumnCount(Int32 value)
+

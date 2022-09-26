@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subscriptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subscription>
+    <SubscriptionName>Smart 5</SubscriptionName>
+    <SubscriptionCode>6</SubscriptionCode>
+    <SubscriptionType>PrePaid</SubscriptionType>
+    <SubscriptionFees>7.3</SubscriptionFees>
+  </Subscription>
+  <Subscription>
+    <SubscriptionName>Smart 4</SubscriptionName>
+    <SubscriptionCode>3</SubscriptionCode>
+    <SubscriptionType>PrePaid</SubscriptionType>
+    <SubscriptionFees>4.6</SubscriptionFees>
+  </Subscription>
+  <Subscription>
+    <SubscriptionName>Shabab 4</SubscriptionName>
+    <SubscriptionCode>1</SubscriptionCode>
+    <SubscriptionType>PrePaid</SubscriptionType>
+    <SubscriptionFees>4.2</SubscriptionFees>
+  </Subscription>
+  <Subscription>
+    <SubscriptionName>GG</SubscriptionName>
+    <SubscriptionCode>4</SubscriptionCode>
+    <SubscriptionType>PostPaid</SubscriptionType>
+    <SubscriptionFees>10</SubscriptionFees>
+  </Subscription>
+</Subscriptions>

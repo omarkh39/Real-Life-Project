@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TelecomModelStoreContainer" CdmEntityContainer="TelecomEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="TelecomModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="CustomerFirstName" ColumnName="CustomerFirstName" />
+          <ScalarProperty Name="CustomerLastName" ColumnName="CustomerLastName" />
+          <ScalarProperty Name="CustomerPhoneNumber" ColumnName="CustomerPhoneNumber" />
+          <ScalarProperty Name="ExpiryDate" ColumnName="ExpiryDate" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="SubscriptionCode" ColumnName="SubscriptionCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscriptions">
+      <EntityTypeMapping TypeName="TelecomModel.Subscription">
+        <MappingFragment StoreEntitySet="Subscription">
+          <ScalarProperty Name="SubscriptionName" ColumnName="SubscriptionName" />
+          <ScalarProperty Name="SubscriptionCode" ColumnName="SubscriptionCode" />
+          <ScalarProperty Name="SubscriptionPackge" ColumnName="SubscriptionPackge" />
+          <ScalarProperty Name="SubscriptionFee" ColumnName="SubscriptionFee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

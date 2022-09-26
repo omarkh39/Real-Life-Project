@@ -1,0 +1,10 @@
+01/08/2022 1:45:39 048 PM		Excpetion Message 	String was not recognized as a valid DateTime.	 Exception stack Trace   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+
+01/08/2022 2:29:04 375 PM		Excpetion Message 	String was not recognized as a valid DateTime.	 Exception stack Trace   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+
+01/08/2022 2:37:12 544 PM		Excpetion Message 	Syntax error: Missing operand before 'Like' operator.	 Exception stack Trace   at System.Data.ExpressionParser.Parse()
+
+01/08/2022 3:54:04 028 PM		Excpetion Message 	String was not recognized as a valid DateTime.	 Exception stack Trace   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+
+01/08/2022 4:03:34 380 PM		Excpetion Message 	String was not recognized as a valid DateTime.	 Exception stack Trace   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+

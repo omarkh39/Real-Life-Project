@@ -1,0 +1,5 @@
+07/08/2022 8:20:28 122 AM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.CustomerDatabaseHandler.CreateCustomer(TelecomCustomer customer) in C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs:line 41
+
+07/08/2022 8:50:05 699 AM		Excpetion Message 	Value cannot be null.
+Parameter name: entity	 Exception stack Trace   at System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+

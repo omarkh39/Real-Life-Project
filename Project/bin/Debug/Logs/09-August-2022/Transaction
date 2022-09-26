@@ -1,0 +1,58 @@
+ 4:35:14 295 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 4:35:14 783 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 4:35:15 083 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 4:35:16 858 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 4:35:19 610 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Xml Handler\Customers\CustomerXmlDocument.cs		XmlToCustomer	Customer Added Sucessfully To Xml
+ 4:35:20 514 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Xml Handler\Customers\CustomerXmlDocument.cs		XmlToCustomer	Customer Added Sucessfully To Xml
+ 4:35:21 105 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Xml Handler\Customers\CustomerXmlDocument.cs		XmlToCustomer	Customer Added Sucessfully To Xml
+ 4:35:21 107 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 4:35:21 142 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:35:21 145 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:35:21 151 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:35:21 154 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:35:21 155 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 4:35:25 940 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 4:35:25 942 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 4:35:25 945 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 4:35:29 753 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 4:35:29 756 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:35:29 760 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:35:29 772 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:35:29 775 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:35:31 503 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 4:35:32 441 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 4:35:32 443 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 4:35:32 446 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 4:35:32 471 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Closed
+
+
+ 4:35:50 459 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	User is Trying To create instance of the Application
+ 4:35:50 463 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Started
+ 4:35:50 525 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		.ctor	Login Form Initilized
+ 4:35:51 870 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 4:35:53 912 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 4:35:53 938 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:35:53 940 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:35:53 946 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:35:53 947 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:35:53 949 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 4:35:56 859 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ssss	CustomerLastName:    dddddd 	CustomerMobileNumber:    0791234567	ExpiryDate:    07/10/2022 00:00:00	SubscriptionType:    Smart 7		
+ 4:35:56 863 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:36:00 582 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    sssk  dddddd  Mobile Number:    0791234567 Subscription Type:    Smart 7 Amount:    4		
+ 4:36:00 585 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:36:00 587 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    sssk	Customer Last Name:    dddddd	Customer Monile Phone:    0791234567	Amount:    4	 Expiry Date:    07/10/2022 00:00:00
+ 4:36:00 589 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    sssk  dddddd  Mobile Number:    0791234567 Subscription Type:    Smart 7 Amount:    4
+ 4:36:01 321 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 4:36:02 193 PM	C:\Users\OMAR.K\Desktop\Project\Project\Data Handler\Database Handler\DataBase Classes\Customers\CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 4:36:02 196 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 4:36:02 198 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:36:02 201 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:36:02 209 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:36:02 211 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:36:03 322 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 4:36:04 140 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 4:36:04 142 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 4:36:04 144 PM	C:\Users\OMAR.K\Desktop\Project\Project\Screens\LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 4:36:04 161 PM	C:\Users\OMAR.K\Desktop\Project\Project\Program\Program.cs		Main	Application Closed
+
+

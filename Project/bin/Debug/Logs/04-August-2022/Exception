@@ -1,0 +1,4 @@
+04/08/2022 2:12:49 036 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.CustomerDatabaseHandler.EditCustomer(TelecomCustomer telecomCustomer) in C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs:line 74
+
+04/08/2022 2:15:38 917 PM		Excpetion Message 	Object reference not set to an instance of an object.	 Exception stack Trace   at Project.CustomerDatabaseHandler.EditCustomer(TelecomCustomer telecomCustomer) in C:\Users\OMAR.K\Desktop\Project\Project\CustomerDatabaseHandler.cs:line 74
+

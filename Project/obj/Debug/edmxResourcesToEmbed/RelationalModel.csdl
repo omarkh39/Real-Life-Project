@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TelecomModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerPhoneNumber" />
+    </Key>
+    <Property Name="CustomerFirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CustomerLastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CustomerPhoneNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ExpiryDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Amount" Type="Double" Nullable="false" />
+    <Property Name="SubscriptionCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Subscription" Relationship="Self.FK_Customers_Subscription1" FromRole="Customer" ToRole="Subscription" />
+  </EntityType>
+  <EntityType Name="Subscription">
+    <Key>
+      <PropertyRef Name="SubscriptionCode" />
+    </Key>
+    <Property Name="SubscriptionName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SubscriptionCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SubscriptionPackge" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SubscriptionFee" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Customers" Relationship="Self.FK_Customers_Subscription1" FromRole="Subscription" ToRole="Customer" />
+  </EntityType>
+  <Association Name="FK_Customers_Subscription1">
+    <End Role="Subscription" Type="Self.Subscription" Multiplicity="0..1" />
+    <End Role="Customer" Type="Self.Customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subscription">
+        <PropertyRef Name="SubscriptionCode" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="SubscriptionCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TelecomEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Subscriptions" EntityType="Self.Subscription" />
+    <AssociationSet Name="FK_Customers_Subscription1" Association="Self.FK_Customers_Subscription1">
+      <End Role="Subscription" EntitySet="Subscriptions" />
+      <End Role="Customer" EntitySet="Customers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

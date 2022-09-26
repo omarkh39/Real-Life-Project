@@ -1,0 +1,141 @@
+26/07/2022 4:23:08 019 PM		User is Trying To create instance of the Application
+26/07/2022 4:23:08 572 PM		Application Started
+26/07/2022 4:23:08 633 PM		Login Form Initilized
+26/07/2022 4:23:09 803 PM		User:  admin  Is Closing The Application
+26/07/2022 4:23:09 823 PM		Application Closed
+
+
+26/07/2022 4:24:52 058 PM		User is Trying To create instance of the Application
+26/07/2022 4:24:52 062 PM		Application Started
+26/07/2022 4:24:52 123 PM		Login Form Initilized
+26/07/2022 4:24:53 741 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:24:53 762 PM		Home Scrren Form Component Initilized
+26/07/2022 4:24:53 797 PM		Ressiting Customer Tab data
+26/07/2022 4:24:53 802 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:24:53 813 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:24:53 825 PM		Customer Tab Data Resetted
+26/07/2022 4:24:53 826 PM		Home scrren Form Loaded
+26/07/2022 4:35:17 862 PM		User is Trying To create instance of the Application
+26/07/2022 4:35:17 866 PM		Application Started
+26/07/2022 4:35:17 930 PM		Login Form Initilized
+26/07/2022 4:35:18 952 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:35:18 977 PM		Home Scrren Form Component Initilized
+26/07/2022 4:35:19 011 PM		Ressiting Customer Tab data
+26/07/2022 4:35:19 014 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:35:19 027 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:35:19 039 PM		Customer Tab Data Resetted
+26/07/2022 4:35:19 041 PM		Home scrren Form Loaded
+26/07/2022 4:35:20 231 PM		Customer Tab DatagridView Row Selected	 CustomerFirstName   Adel	CustomerLastName   sdasd 	CustomerMobileNumber   0794569871	ExpiryDate   7/26/2022 12:00:00 AM	 Amount   11
+26/07/2022 4:35:20 233 PM		Customer Fields Filled Sucessfully from Data Grid View Data
+26/07/2022 4:35:23 127 PM		Edit Customer Data Button Pressed
+26/07/2022 4:35:23 129 PM		Values   Customer Name: Adel  sdasd  Mobile Number: 0794569871 Subscription Type   Amount  11
+26/07/2022 4:35:23 131 PM		Checking Customer tab Data Validity
+26/07/2022 4:35:23 133 PM		Customer First Name:   Adel	Customer Last Name   sdasd	Customer Monile Phone  0794569871	Amount   11	 Expiry Date   7/26/2022 12:00:00 AM
+26/07/2022 4:35:29 002 PM		Unvalid Expiry Date
+26/07/2022 4:35:35 462 PM		Edit Customer Data Button Pressed
+26/07/2022 4:35:35 464 PM		Values   Customer Name: Adel  a  Mobile Number: 0794569871 Subscription Type   Amount  11
+26/07/2022 4:35:35 465 PM		Checking Customer tab Data Validity
+26/07/2022 4:35:35 467 PM		Customer First Name:   Adel	Customer Last Name   a	Customer Monile Phone  0794569871	Amount   11	 Expiry Date   7/28/2022 12:00:00 AM
+26/07/2022 4:35:36 433 PM		Unvalid Lastt Name
+26/07/2022 4:35:38 790 PM		Edit Customer Data Button Pressed
+26/07/2022 4:35:38 792 PM		Values   Customer Name: Adel  ass  Mobile Number: 0794569871 Subscription Type   Amount  11
+26/07/2022 4:35:38 794 PM		Checking Customer tab Data Validity
+26/07/2022 4:35:38 795 PM		Customer First Name:   Adel	Customer Last Name   ass	Customer Monile Phone  0794569871	Amount   11	 Expiry Date   7/28/2022 12:00:00 AM
+26/07/2022 4:35:38 797 PM		Customer New value to be editted Customer Name: Adel  ass  Mobile Number: 0794569871 Subscription Type   Amount  11
+26/07/2022 4:35:39 570 PM		Messege Box Are You Sure You want To edit ?
+26/07/2022 4:35:39 573 PM		User Pressed Ok
+26/07/2022 4:35:39 575 PM		Data Edditted Sucessfully
+26/07/2022 4:35:39 576 PM		Ressiting Customer Tab data
+26/07/2022 4:35:39 579 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:35:39 588 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:35:39 600 PM		Customer Tab Data Resetted
+26/07/2022 4:35:42 565 PM		Close Button Pressed
+26/07/2022 4:35:43 954 PM		Are you sure you want to Exist The Application
+26/07/2022 4:35:43 955 PM		User Pressed Yes  Application Home Screen Closing
+26/07/2022 4:35:43 957 PM		User:  admin  Is Closing The Application
+26/07/2022 4:35:43 978 PM		Application Closed
+
+
+26/07/2022 4:37:20 834 PM		User is Trying To create instance of the Application
+26/07/2022 4:37:20 838 PM		Application Started
+26/07/2022 4:37:20 900 PM		Login Form Initilized
+26/07/2022 4:37:22 081 PM		User:  admin  Is Closing The Application
+26/07/2022 4:37:22 103 PM		Application Closed
+
+
+26/07/2022 4:38:37 537 PM		User is Trying To create instance of the Application
+26/07/2022 4:38:37 541 PM		Application Started
+26/07/2022 4:38:37 610 PM		Login Form Initilized
+26/07/2022 4:38:38 511 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:38:38 533 PM		Home Scrren Form Component Initilized
+26/07/2022 4:38:38 561 PM		Ressiting Customer Tab data
+26/07/2022 4:38:38 564 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:38:38 578 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:38:55 779 PM		User is Trying To create instance of the Application
+26/07/2022 4:38:55 784 PM		Application Started
+26/07/2022 4:38:55 858 PM		Login Form Initilized
+26/07/2022 4:38:56 816 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:38:56 839 PM		Home Scrren Form Component Initilized
+26/07/2022 4:38:56 874 PM		Ressiting Customer Tab data
+26/07/2022 4:38:56 877 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:38:56 892 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:38:56 902 PM		Customer Tab Data Resetted
+26/07/2022 4:38:56 904 PM		Home scrren Form Loaded
+26/07/2022 4:39:08 493 PM		Subscription Tab Selected 
+26/07/2022 4:39:08 495 PM		Resetting Subscription Tab
+26/07/2022 4:39:08 504 PM		 Subscription Tab Ressetted
+26/07/2022 4:39:09 564 PM		Customer Tab Selected 
+26/07/2022 4:39:09 565 PM		Ressiting Customer Tab data
+26/07/2022 4:39:09 567 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:39:09 577 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:39:09 586 PM		Customer Tab Data Resetted
+26/07/2022 4:39:11 087 PM		Ressiting Customer Tab data
+26/07/2022 4:39:11 089 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:39:11 096 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:39:11 105 PM		Customer Tab Data Resetted
+26/07/2022 4:39:11 678 PM		Ressiting Customer Tab data
+26/07/2022 4:39:11 680 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:39:11 688 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:39:11 695 PM		Customer Tab Data Resetted
+26/07/2022 4:39:11 862 PM		Ressiting Customer Tab data
+26/07/2022 4:39:11 864 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:39:11 872 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:39:11 879 PM		Customer Tab Data Resetted
+26/07/2022 4:39:12 838 PM		Close Button Pressed
+26/07/2022 4:39:13 897 PM		Are you sure you want to Exist The Application
+26/07/2022 4:39:13 899 PM		User Pressed Yes  Application Home Screen Closing
+26/07/2022 4:39:13 900 PM		User:  admin  Is Closing The Application
+26/07/2022 4:39:13 923 PM		Application Closed
+
+
+26/07/2022 4:39:21 277 PM		User is Trying To create instance of the Application
+26/07/2022 4:39:21 281 PM		Application Started
+26/07/2022 4:39:21 335 PM		Login Form Initilized
+26/07/2022 4:39:22 177 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:39:22 197 PM		Home Scrren Form Component Initilized
+26/07/2022 4:39:22 227 PM		Ressiting Customer Tab data
+26/07/2022 4:39:22 230 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:39:22 249 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:40:26 976 PM		User is Trying To create instance of the Application
+26/07/2022 4:40:26 980 PM		Application Started
+26/07/2022 4:40:27 047 PM		Login Form Initilized
+26/07/2022 4:40:27 724 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:40:27 739 PM		Home Scrren Form Component Initilized
+26/07/2022 4:40:27 762 PM		Ressiting Customer Tab data
+26/07/2022 4:40:27 764 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:40:27 776 PM		Subscription Type Combo Box Values Reloaded Successfully
+26/07/2022 4:40:49 290 PM		Close Button Pressed
+26/07/2022 4:40:50 192 PM		Are you sure you want to Exist The Application
+26/07/2022 4:40:50 195 PM		User Pressed Yes  Application Home Screen Closing
+26/07/2022 4:40:50 197 PM		User:  admin  Is Closing The Application
+26/07/2022 4:40:50 209 PM		Application Closed
+
+
+26/07/2022 4:40:59 332 PM		User is Trying To create instance of the Application
+26/07/2022 4:40:59 336 PM		Application Started
+26/07/2022 4:40:59 401 PM		Login Form Initilized
+26/07/2022 4:41:00 171 PM		User:  admin  Logged in Sucessfully
+26/07/2022 4:41:00 188 PM		Home Scrren Form Component Initilized
+26/07/2022 4:41:00 215 PM		Ressiting Customer Tab data
+26/07/2022 4:41:00 218 PM		Reloading Customer Tab Subscription Type Combo Box Values
+26/07/2022 4:41:00 234 PM		Subscription Type Combo Box Values Reloaded Successfully

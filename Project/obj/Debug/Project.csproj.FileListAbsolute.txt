@@ -1,0 +1,16 @@
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.HomescreenForm.resources
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.LoginPageForm.resources
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\OMAR.K\Desktop\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OMAR.K\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete

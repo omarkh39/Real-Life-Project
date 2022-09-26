@@ -1,0 +1,523 @@
+ 8:58:58 955 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 8:58:58 967 AM	Program.cs		Main	Application Started
+ 8:58:59 019 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 8:59:01 937 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 8:59:04 453 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 8:59:04 487 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 8:59:04 489 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 8:59:04 491 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 8:59:04 494 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 8:59:04 495 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 8:59:07 415 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 8:59:07 416 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 8:59:07 419 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 8:59:09 568 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 8:59:09 572 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 8:59:09 576 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 8:59:09 580 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 8:59:09 584 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 8:59:11 101 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 8:59:11 104 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 8:59:11 106 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 8:59:22 127 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 8:59:22 128 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    5gs	Subscription Code:    2	Fees:    10	PackgeType:    
+ 8:59:22 130 AM	HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 8:59:22 131 AM	HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 8:59:22 133 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName:    5gs	Subscription Code:    2	Fees:    10	PackgeType:    PostPaid
+ 8:59:23 257 AM	SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription added Sucessfully
+ 8:59:23 258 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 8:59:23 260 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 8:59:24 186 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 8:59:24 188 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 8:59:24 191 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 8:59:24 196 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 8:59:24 198 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 8:59:26 237 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    asd 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    4g		
+ 8:59:26 241 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:02:46 807 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ali  asd  Mobile Number:    0796352418 Subscription Type:    5gs Amount:    11		
+ 9:02:46 810 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:02:46 812 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ali	Customer Last Name:    asd	Customer Monile Phone:    0796352418	Amount:    11	 Expiry Date:    21/09/2022 00:00:00
+ 9:02:46 813 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    ali  asd  Mobile Number:    0796352418 Subscription Type:    5gs Amount:    11
+ 9:02:47 563 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 9:02:49 361 AM	CustomerDatabaseHandler.cs		EditCustomer	New Subscription Not Found
+ 9:02:49 363 AM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 9:02:49 364 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:02:49 367 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:02:49 370 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:02:49 372 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:02:51 125 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ahmad	CustomerLastName:    kha 	CustomerMobileNumber:    0798456123	ExpiryDate:    06/03/2022 00:00:00	SubscriptionType:    4g		
+ 9:02:51 127 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:02:53 294 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ahmad  kha  Mobile Number:    0798456123 Subscription Type:    5gs Amount:    1		
+ 9:02:53 296 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:02:53 297 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ahmad	Customer Last Name:    kha	Customer Monile Phone:    0798456123	Amount:    1	 Expiry Date:    06/03/2022 00:00:00
+ 9:02:54 002 AM	HomeScreenForm.cs		CustomerTabValidity	Unvalid Expiry Date
+ 9:03:02 854 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ahmad  kha  Mobile Number:    0798456123 Subscription Type:    5gs Amount:    1		
+ 9:03:02 856 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:03:02 857 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ahmad	Customer Last Name:    kha	Customer Monile Phone:    0798456123	Amount:    1	 Expiry Date:    07/02/2023 00:00:00
+ 9:03:02 858 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    ahmad  kha  Mobile Number:    0798456123 Subscription Type:    5gs Amount:    1
+ 9:03:03 795 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 9:03:05 809 AM	CustomerDatabaseHandler.cs		EditCustomer	New Subscription Not Found
+ 9:03:05 811 AM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 9:03:05 812 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:03:05 816 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:03:05 819 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:03:05 820 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:03:20 985 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:03:20 992 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:03:20 998 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:03:29 127 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 9:03:30 106 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 9:03:30 107 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 9:03:30 110 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 9:03:30 136 AM	Program.cs		Main	Application Closed
+
+
+ 9:18:55 637 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 9:18:55 641 AM	Program.cs		Main	Application Started
+ 9:18:55 695 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 9:18:56 661 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 9:18:57 458 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 9:18:57 485 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:18:57 487 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:18:57 490 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:18:57 492 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:18:57 494 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 9:19:22 577 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ahmad	CustomerLastName:    kha 	CustomerMobileNumber:    0798456123	ExpiryDate:    06/03/2022 00:00:00	SubscriptionType:    4g		
+ 9:19:22 581 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:19:23 890 AM	HomeScreenForm.cs		DeleteCustomerButton_Click	Customer Tab Delete Button Pressed		
+ 9:19:23 892 AM	HomeScreenForm.cs		DeleteCustomerButton_Click	Message Box Are You Sure You want to delte Customer:    ahmad	kha	Customer
+ 9:19:24 997 AM	HomeScreenForm.cs		DeleteCustomerButton_Click	User Pressed Ok
+ 9:19:25 004 AM	CustomerDatabaseHandler.cs		DeleteCustomer	Customer Not Found, Please Try Again
+ 9:19:28 010 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:19:28 012 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:19:28 014 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:19:28 015 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:19:37 779 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 9:19:39 269 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 9:19:39 271 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 9:19:39 274 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 9:19:39 289 AM	Program.cs		Main	Application Closed
+
+
+ 9:39:23 872 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 9:39:23 876 AM	Program.cs		Main	Application Started
+ 9:39:23 928 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 9:39:24 784 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 9:39:25 624 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 9:39:25 668 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:39:25 671 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:39:25 674 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:39:25 675 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:39:25 677 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 9:39:26 764 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:39:26 767 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:39:26 770 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:39:36 814 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 9:39:36 815 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    5g	Subscription Code:    2	Fees:    1	PackgeType:    
+ 9:39:36 817 AM	HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 9:39:36 819 AM	HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 9:39:36 821 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName:    5g	Subscription Code:    2	Fees:    1	PackgeType:    PostPaid
+ 9:39:37 704 AM	SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription added Sucessfully
+ 9:39:37 705 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:39:37 708 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:39:38 709 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 9:39:38 712 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:39:38 717 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:39:38 724 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:39:38 727 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:39:39 997 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 9:39:40 000 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:40:08 030 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Oamr  kh  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10		
+ 9:40:08 032 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:40:08 033 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Oamr	Customer Last Name:    kh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    11/09/2022 00:00:00
+ 9:40:10 698 AM	HomeScreenForm.cs		CustomerTabValidity	Unvalid Lastt Name
+ 9:40:13 645 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10		
+ 9:40:13 646 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:40:13 653 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Oamr	Customer Last Name:    kha	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    11/09/2022 00:00:00
+ 9:40:13 655 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10
+ 9:40:14 665 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 9:40:17 513 AM	CustomerDatabaseHandler.cs		EditCustomer	New Subscription Not Found
+ 9:40:17 515 AM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 9:40:17 516 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:40:17 518 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:40:17 522 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:40:17 523 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:40:22 481 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:40:22 484 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:40:22 487 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:40:23 545 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 9:40:23 547 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:40:23 548 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:40:23 552 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:40:23 553 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:40:25 029 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 9:40:25 031 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:40:27 397 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Oamr  kh  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10		
+ 9:40:27 398 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:40:27 400 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Oamr	Customer Last Name:    kh	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    11/09/2022 00:00:00
+ 9:40:28 306 AM	HomeScreenForm.cs		CustomerTabValidity	Unvalid Lastt Name
+ 9:40:30 237 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10		
+ 9:40:30 239 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:40:30 240 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Oamr	Customer Last Name:    kha	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    11/09/2022 00:00:00
+ 9:40:30 241 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10
+ 9:40:30 995 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 9:40:31 680 AM	CustomerDatabaseHandler.cs		EditCustomer	New Subscription Not Found
+ 9:40:31 681 AM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 9:40:31 682 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:40:31 685 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:40:31 688 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:40:31 689 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:40:32 365 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:        Mobile Number:     Subscription Type:     Amount:    		
+ 9:40:32 367 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:40:32 369 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    	Customer Last Name:    	Customer Monile Phone:    	Amount:    	 Expiry Date:    10/10/2022 09:40:31
+ 9:40:34 457 AM	HomeScreenForm.cs		CustomerTabValidity	Unvalid Amount
+ 9:40:36 500 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 9:40:36 503 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:40:39 501 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 9:40:40 627 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 9:40:40 629 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 9:40:40 631 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 9:40:40 659 AM	Program.cs		Main	Application Closed
+
+
+ 9:41:27 932 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 9:41:27 935 AM	Program.cs		Main	Application Started
+ 9:41:27 985 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 9:41:28 901 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 9:41:29 644 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 9:41:29 687 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:41:29 691 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:41:29 695 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:41:29 697 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:41:29 699 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 9:41:30 613 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:41:30 615 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:41:30 618 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:41:51 512 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 9:41:51 514 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    5g	Subscription Code:    2	Fees:    13	PackgeType:    
+ 9:41:51 516 AM	HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 9:41:51 518 AM	HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 9:41:51 520 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName:    5g	Subscription Code:    2	Fees:    13	PackgeType:    PostPaid
+ 9:41:52 372 AM	SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription added Sucessfully
+ 9:41:52 373 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:41:52 376 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:41:53 201 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 9:41:53 207 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:41:53 211 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:41:53 219 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:41:53 221 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:42:07 831 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 9:42:07 835 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 9:42:11 200 AM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10		
+ 9:42:11 202 AM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 9:42:11 204 AM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    Oamr	Customer Last Name:    kha	Customer Monile Phone:    0799175601	Amount:    10	 Expiry Date:    11/09/2022 00:00:00
+ 9:42:11 205 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    Oamr  kha  Mobile Number:    0799175601 Subscription Type:    5g Amount:    10
+ 9:42:11 946 AM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 9:42:12 739 AM	CustomerDatabaseHandler.cs		EditCustomer	New Subscription Not Found
+ 9:42:12 742 AM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 9:42:12 744 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:42:12 746 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:42:12 748 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:42:12 750 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:42:17 824 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 9:42:18 715 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 9:42:18 717 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 9:42:18 718 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 9:42:18 745 AM	Program.cs		Main	Application Closed
+
+
+ 9:43:30 471 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 9:43:30 475 AM	Program.cs		Main	Application Started
+ 9:43:30 527 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 9:43:31 588 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 9:43:32 273 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 9:43:32 301 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:43:32 303 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:43:32 306 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:43:32 307 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:43:32 308 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 9:43:33 501 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:43:33 503 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:43:33 505 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:43:59 719 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 9:43:59 721 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 9:43:59 723 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 9:43:59 724 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 9:43:59 726 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 9:44:00 135 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 9:44:00 137 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:44:00 138 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:44:01 048 AM	HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 9:44:10 282 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 9:44:10 284 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    5g	Subscription Code:    10	Fees:    1	PackgeType:    
+ 9:44:10 286 AM	HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 9:44:10 287 AM	HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 9:44:10 289 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName:    5g	Subscription Code:    10	Fees:    1	PackgeType:    PostPaid
+ 9:44:11 526 AM	SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription added Sucessfully
+ 9:44:11 527 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:44:11 530 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:44:36 111 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Subscription Tab Add Subscription Button Pressed		
+ 9:44:36 112 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	valuesSubscriptionName:    asd	Subscription Code:    9	Fees:    10	PackgeType:    
+ 9:44:36 114 AM	HomeScreenForm.cs		SubscriptionTabValidate	Checking Subscription tab Data Validity
+ 9:44:36 115 AM	HomeScreenForm.cs		SubscriptionTabValidate	Subscription Valid Data
+ 9:44:36 117 AM	HomeScreenForm.cs		AddSubscriptionButton_Click	Adding subscription:		SubscriptionName:    asd	Subscription Code:    9	Fees:    10	PackgeType:    PostPaid
+ 9:44:39 260 AM	SubscriptionDatabaseHandler.cs		CreateSubscription	Subscription adding Process Didn't complete Sucessfully
+ 9:44:39 262 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 9:44:39 264 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 9:44:46 737 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 9:44:47 742 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 9:44:47 744 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 9:44:47 746 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 9:44:47 767 AM	Program.cs		Main	Application Closed
+
+
+ 10:20:56 883 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 10:20:56 886 AM	Program.cs		Main	Application Started
+ 10:20:56 940 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 10:20:57 764 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 10:20:58 627 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 10:20:58 659 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 10:20:58 661 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:20:58 665 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 10:20:58 666 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 10:20:58 668 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 10:21:02 430 AM	HomeScreenForm.cs		SearchButton_Click	Search text box value Changed:    omar		
+ 10:21:06 773 AM	HomeScreenForm.cs		SearchButton_Click	Search text box value Changed:    o		
+ 10:21:15 606 AM	HomeScreenForm.cs		SearchButton_Click	Search text box value Changed:    		
+ 10:22:13 542 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 10:22:13 544 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 10:22:13 546 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 10:22:14 710 AM	HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 10:22:15 077 AM	HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Data Grid View Clicked		
+ 10:22:15 078 AM	HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription DatagridView Row Selected
+ 10:22:15 080 AM	HomeScreenForm.cs		SubscriptiondataGridView_Click	Subscription Tab DatagridView Row Selected	 	 SubscriptionName:    5g 	SubscriptionCode:    9	 SubscriptionFee:    1	SubscriptionType:    PostPaid
+ 10:23:18 589 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 10:23:18 593 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 10:23:18 596 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:23:18 604 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 10:23:18 607 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 10:23:30 587 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 10:23:30 590 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 10:23:30 595 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 10:23:31 062 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Customer Tab Selected 
+ 10:23:31 079 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 10:23:31 082 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:23:31 090 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 10:23:31 092 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 10:23:39 641 AM	HomeScreenForm.cs		telecomTabControl_SelectedIndexChanged	Subscription Tab Selected 
+ 10:23:39 646 AM	HomeScreenForm.cs		ResetSubscriptionTab	Resetting Subscription Tab		
+ 10:23:39 650 AM	HomeScreenForm.cs		ResetSubscriptionTab	Subscription Tab Ressetted
+ 10:23:40 439 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 10:23:41 308 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 10:23:41 311 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 10:23:41 313 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 10:23:41 334 AM	Program.cs		Main	Application Closed
+
+
+ 10:42:29 835 AM	Program.cs		Main	User is Trying To create instance of the Application
+ 10:42:29 839 AM	Program.cs		Main	Application Started
+ 10:42:29 895 AM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 10:42:30 741 AM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 10:42:31 609 AM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 10:42:31 640 AM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 10:42:31 642 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 10:42:31 646 AM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 10:42:31 647 AM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 10:42:31 649 AM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 10:42:35 096 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    asd 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:35 099 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:35 551 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ahmad	CustomerLastName:    kha 	CustomerMobileNumber:    0798456122	ExpiryDate:    06/03/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:35 553 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:35 984 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:35 986 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:36 984 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Oamr	CustomerLastName:    kh 	CustomerMobileNumber:    0799175601	ExpiryDate:    11/09/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:36 985 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:37 728 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    asd 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:37 730 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:38 095 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    Mohammad	CustomerLastName:    Kha 	CustomerMobileNumber:    0791452368	ExpiryDate:    09/10/2022 00:00:00	SubscriptionType:    4g		
+ 10:42:38 097 AM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 10:42:43 161 AM	HomeScreenForm.cs		SearchButton_Click	Search text box value Changed:    omar		
+ 10:42:47 953 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 10:42:48 788 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 10:42:48 789 AM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 10:42:48 791 AM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 10:42:48 807 AM	Program.cs		Main	Application Closed
+
+
+ 3:34:06 152 PM	Program.cs		Main	User is Trying To create instance of the Application
+ 3:34:06 710 PM	Program.cs		Main	Application Started
+ 3:34:06 782 PM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 3:34:08 133 PM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 3:34:09 641 PM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 3:34:09 671 PM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 3:34:09 673 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 3:34:09 676 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 3:34:09 677 PM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 3:34:09 679 PM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 3:34:11 064 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 3:34:12 091 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 3:34:12 092 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 3:34:12 094 PM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 3:34:12 109 PM	Program.cs		Main	Application Closed
+
+
+ 4:01:56 670 PM	Program.cs		Main	User is Trying To create instance of the Application
+ 4:01:56 674 PM	Program.cs		Main	Application Started
+ 4:01:56 735 PM	LoginPageForm.cs		.ctor	Login Form Initilized
+ 4:01:57 773 PM	LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 4:01:58 492 PM	HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 4:01:58 530 PM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:01:58 533 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:01:58 539 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:01:58 542 PM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:01:58 544 PM	HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 4:02:00 417 PM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ahmad	CustomerLastName:    kha 	CustomerMobileNumber:    0798456122	ExpiryDate:    06/03/2022 00:00:00	SubscriptionType:    4g		
+ 4:02:00 421 PM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:02:05 746 PM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ahmad  kha  Mobile Number:    0798456122 Subscription Type:    5g Amount:    1		
+ 4:02:05 748 PM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:02:05 749 PM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ahmad	Customer Last Name:    kha	Customer Monile Phone:    0798456122	Amount:    1	 Expiry Date:    06/03/2022 00:00:00
+ 4:02:07 530 PM	HomeScreenForm.cs		CustomerTabValidity	Unvalid Expiry Date
+ 4:02:12 208 PM	HomeScreenForm.cs		SaveCustomerButton_Click	save button preesed 	 Values   Customer Name:    ahmad  kha  Mobile Number:    0798456122 Subscription Type:    5g Amount:    1		
+ 4:02:12 210 PM	HomeScreenForm.cs		CustomerTabValidity	Checking Customer tab Data Validity		
+ 4:02:12 211 PM	HomeScreenForm.cs		CustomerTabValidity	Customer First Name:    ahmad	Customer Last Name:    kha	Customer Monile Phone:    0798456122	Amount:    1	 Expiry Date:    19/11/2022 00:00:00
+ 4:02:12 212 PM	HomeScreenForm.cs		SaveCustomerButton_Click	Customer New value to be editted Customer Name:    ahmad  kha  Mobile Number:    0798456122 Subscription Type:    5g Amount:    1
+ 4:02:13 285 PM	HomeScreenForm.cs		SaveCustomerButton_Click	Messege Box Are You Sure You want To edit ?
+ 4:02:16 283 PM	CustomerDatabaseHandler.cs		EditCustomer	Customer Data Edditted Sucessfully to data base
+ 4:02:16 285 PM	HomeScreenForm.cs		SaveCustomerButton_Click	User Pressed Ok
+ 4:02:16 287 PM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:02:16 290 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:02:16 294 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:02:16 296 PM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:02:24 793 PM	HomeScreenForm.cs		SearchButton_Click	Search text box value Changed:    0798		
+ 4:02:27 951 PM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Tab DatagridView Row Selected	 CustomerFirstName:    ahmad	CustomerLastName:    kha 	CustomerMobileNumber:    0798456122	ExpiryDate:    19/11/2022 00:00:00	SubscriptionType:    5g		
+ 4:02:27 955 PM	HomeScreenForm.cs		CustomerDataGridView_CellClick	Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:02:30 489 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 4:02:31 609 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 4:02:31 611 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Cancle 
+ 4:02:32 160 PM	HomeScreenForm.cs		ClearAddCustomerFormButton_Click	Clear button Pressed 		
+ 4:02:32 162 PM	HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:02:32 170 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:02:32 175 PM	HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:02:32 177 PM	HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:02:35 952 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 4:02:37 171 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 4:02:37 173 PM	HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 4:02:37 174 PM	LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 4:02:37 190 PM	Program.cs		Main	Application Closed
+
+
+ 4:04:29 174 PM		Program.cs		Main	User is Trying To create instance of the Application
+ 4:04:29 178 PM		Program.cs		Main	Application Started
+ 4:04:29 230 PM		LoginPageForm.cs		.ctor	Login Form Initilized
+ 4:04:29 933 PM		LoginPageForm.cs		LogInButton_Click	User:  admin  Logged in Sucessfully
+ 4:04:30 706 PM		HomeScreenForm.cs		.ctor	Home Scrren Form Component Initilized		
+ 4:04:30 749 PM		HomeScreenForm.cs		ResetCustomerTab	Ressiting Customer Tab data		
+ 4:04:30 752 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:04:30 759 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox	Subscription Type Combo Box Values Reloaded Successfully
+ 4:04:30 761 PM		HomeScreenForm.cs		ResetCustomerTab	Customer Tab Data Resetted
+ 4:04:30 763 PM		HomeScreenForm.cs		HomeScreenForm_Load	Home scrren Form Loaded		
+ 4:04:31 640 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing	Close Button Pressed		
+ 4:04:32 461 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing	Are you sure you want to Exist The Application
+ 4:04:32 463 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing	User Pressed Yes  Application Home Screen Closing
+ 4:04:32 465 PM		LoginPageForm.cs		LoginPageForm_FormClosing	User:  admin  Is Closing The Application
+ 4:04:32 482 PM		Program.cs		Main	Application Closed
+
+
+ 4:06:01 382 PM		Program.cs			Main		User is Trying To create instance of the Application
+ 4:06:01 386 PM		Program.cs			Main		Application Started
+ 4:06:01 439 PM		LoginPageForm.cs			.ctor		Login Form Initilized
+ 4:06:02 230 PM		LoginPageForm.cs			LogInButton_Click		User:  admin  Logged in Sucessfully
+ 4:06:03 011 PM		HomeScreenForm.cs			.ctor		Home Scrren Form Component Initilized		
+ 4:06:03 045 PM		HomeScreenForm.cs			ResetCustomerTab		Ressiting Customer Tab data		
+ 4:06:03 047 PM		HomeScreenForm.cs			ReloadSubscriptionTypeComboBox		Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:06:03 051 PM		HomeScreenForm.cs			ReloadSubscriptionTypeComboBox		Subscription Type Combo Box Values Reloaded Successfully
+ 4:06:03 053 PM		HomeScreenForm.cs			ResetCustomerTab		Customer Tab Data Resetted
+ 4:06:03 054 PM		HomeScreenForm.cs			HomeScreenForm_Load		Home scrren Form Loaded		
+ 4:06:04 378 PM		HomeScreenForm.cs			HomeScreenForm_FormClosing		Close Button Pressed		
+ 4:06:05 391 PM		HomeScreenForm.cs			HomeScreenForm_FormClosing		Are you sure you want to Exist The Application
+ 4:06:05 392 PM		HomeScreenForm.cs			HomeScreenForm_FormClosing		User Pressed Yes  Application Home Screen Closing
+ 4:06:05 394 PM		LoginPageForm.cs			LoginPageForm_FormClosing		User:  admin  Is Closing The Application
+ 4:06:05 411 PM		Program.cs			Main		Application Closed
+
+
+ 4:06:35 417 PM		Program.cs		Main			User is Trying To create instance of the Application
+ 4:06:35 420 PM		Program.cs		Main			Application Started
+ 4:06:35 473 PM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 4:06:36 149 PM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 4:06:36 891 PM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 4:06:36 955 PM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 4:06:36 958 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:06:36 963 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 4:06:36 964 PM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 4:06:36 966 PM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 4:06:38 595 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 4:06:39 558 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 4:06:39 559 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 4:06:39 561 PM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 4:06:39 581 PM		Program.cs		Main			Application Closed
+
+
+ 4:07:30 133 PM		Program.cs		Main			User is Trying To create instance of the Application
+ 4:07:30 136 PM		Program.cs		Main			Application Started
+ 4:07:30 201 PM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 4:07:31 381 PM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 4:07:32 075 PM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 4:07:32 104 PM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 4:07:32 106 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:07:32 110 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 4:07:32 111 PM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 4:07:32 113 PM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 4:07:33 370 PM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Tab DatagridView Row Selected	 CustomerFirstName:    ali	CustomerLastName:    asd 	CustomerMobileNumber:    0796352418	ExpiryDate:    21/09/2022 00:00:00	SubscriptionType:    4g		
+ 4:07:33 373 PM		HomeScreenForm.cs		CustomerDataGridView_CellClick			Customer Fields Filled Sucessfully from Data Grid View Data
+ 4:07:41 651 PM		HomeScreenForm.cs		SaveCustomerButton_Click			save button preesed 	 Values   Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    4g Amount:    11		
+ 4:07:41 653 PM		HomeScreenForm.cs		CustomerTabValidity			Checking Customer tab Data Validity		
+ 4:07:41 655 PM		HomeScreenForm.cs		CustomerTabValidity			Customer First Name:    ali	Customer Last Name:    ibrahim	Customer Monile Phone:    0796352418	Amount:    11	 Expiry Date:    21/09/2022 00:00:00
+ 4:07:41 657 PM		HomeScreenForm.cs		SaveCustomerButton_Click			Customer New value to be editted Customer Name:    ali  ibrahim  Mobile Number:    0796352418 Subscription Type:    4g Amount:    11
+ 4:07:42 517 PM		HomeScreenForm.cs		SaveCustomerButton_Click			Messege Box Are You Sure You want To edit ?
+ 4:07:43 878 PM		CustomerDatabaseHandler.cs		EditCustomer			Customer Data Edditted Sucessfully to data base
+ 4:07:43 880 PM		HomeScreenForm.cs		SaveCustomerButton_Click			User Pressed Ok
+ 4:07:43 881 PM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 4:07:43 884 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:07:43 890 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 4:07:43 892 PM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 4:07:47 066 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 4:07:47 982 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 4:07:47 983 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 4:07:47 985 PM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 4:07:48 003 PM		Program.cs		Main			Application Closed
+
+
+ 4:07:52 215 PM		Program.cs		Main			User is Trying To create instance of the Application
+ 4:07:52 218 PM		Program.cs		Main			Application Started
+ 4:07:52 264 PM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 4:07:53 351 PM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 4:07:54 046 PM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 4:07:54 079 PM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 4:07:54 082 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:07:54 086 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 4:07:54 087 PM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 4:07:54 089 PM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 4:07:56 370 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 4:07:57 199 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 4:07:57 200 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 4:07:57 202 PM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 4:07:57 221 PM		Program.cs		Main			Application Closed
+
+
+ 4:10:30 737 PM		Program.cs		Main			User is Trying To create instance of the Application
+ 4:10:30 741 PM		Program.cs		Main			Application Started
+ 4:10:30 791 PM		LoginPageForm.cs		.ctor			Login Form Initilized
+ 4:10:32 348 PM		LoginPageForm.cs		LogInButton_Click			User:  admin  Logged in Sucessfully
+ 4:10:33 034 PM		HomeScreenForm.cs		.ctor			Home Scrren Form Component Initilized		
+ 4:10:33 064 PM		HomeScreenForm.cs		ResetCustomerTab			Ressiting Customer Tab data		
+ 4:10:33 066 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Reloading Customer Tab Subscription Type Combo Box Values		
+ 4:10:33 071 PM		HomeScreenForm.cs		ReloadSubscriptionTypeComboBox			Subscription Type Combo Box Values Reloaded Successfully
+ 4:10:33 073 PM		HomeScreenForm.cs		ResetCustomerTab			Customer Tab Data Resetted
+ 4:10:33 074 PM		HomeScreenForm.cs		HomeScreenForm_Load			Home scrren Form Loaded		
+ 4:10:34 663 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Close Button Pressed		
+ 4:10:35 770 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			Are you sure you want to Exist The Application
+ 4:10:35 771 PM		HomeScreenForm.cs		HomeScreenForm_FormClosing			User Pressed Yes  Application Home Screen Closing
+ 4:10:35 773 PM		LoginPageForm.cs		LoginPageForm_FormClosing			User:  admin  Is Closing The Application
+ 4:10:35 790 PM		Program.cs		Main			Application Closed
+
+
